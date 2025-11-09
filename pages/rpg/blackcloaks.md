@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Black Cloaks
-permalink: /black-cloaks/
+permalink: /blackcloaks/
 ---
 
 
