@@ -10,7 +10,7 @@ RPG information and records for active and archived games.
 
 ---
 
-[![Black Cloaks poster]({{ '/assets/images/BCido.png' | relative_url }})]({{ '/blackcloaks/' | relative_url }})
+[![Black Cloaks poster]({{ '/assets/images/BCico.png' | relative_url }})]({{ '/blackcloaks/' | relative_url }})
 [Enter Black Cloaks →]({{ '/blackcloaks/' | relative_url }})
 
 ---
