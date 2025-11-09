@@ -4,7 +4,7 @@ title: RPGs
 permalink: /rpg/
 ---
 
-# RPG Worlds
+# Game Portals
 
 RPG information and records for active and archived games.
 
