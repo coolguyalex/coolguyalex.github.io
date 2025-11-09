@@ -10,8 +10,7 @@ RPG information and records for active and archived games.
 
 ---
 
-## 💀 Black Cloaks
-A gritty low-fantasy campaign about a fallen guild of scholar-adventurers.
+![Black Cloaks poster]({{ '/assets/img/blackcloaks.jpg' | relative_url }})
 [Enter Black Cloaks →]({{ '/black-cloaks/' | relative_url }})
 
 ---
