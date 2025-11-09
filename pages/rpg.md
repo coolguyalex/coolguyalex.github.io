@@ -14,9 +14,7 @@ RPG information and records for active and archived games.
 
 ---
 
-## 🪾 Impasse
-A strange-magic forest trapped in time — reality folds, fae whisper, and secrets rot beneath the roots.
-[Enter Impasse →]({{ '/impasse/' | relative_url }})
+[<img src="{{ '/assets/images/impasseico.png' | relative_url }}" alt="Impasse poster" width="300">]({{ '/rpg/impasse.md/' | relative_url }})
 
 ---
 
