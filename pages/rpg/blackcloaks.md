@@ -1,3 +1,10 @@
+---
+layout: default
+title: Black Cloaks
+permalink: /black-cloaks/
+---
+
+
 # Bywater Deployment Records
 
 Kept by Darj Farrier, Director III, Ventures Division
