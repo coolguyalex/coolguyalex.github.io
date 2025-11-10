@@ -1,3 +1,9 @@
+---
+layout: default
+title: Black Cloaks
+permalink: /blackcloakslore/
+---
+
 The Black Cloaks began as a guild of scholars, cartographers, archaeologists, and dungeoneers that  sought out the ruins of ancient civilizations, sunken treasure galleons, and the burial hordes of ancient kings for knowledge, profit, and fame. 
 In time, the black cloaks became respected and feared in equal measure and at their height, the black cloaks were the consult and trade partners of kings, archmages, and warlords alike. 
 However, as their power grew, so too did their enemies: borders were closed to their passing, information once freely provided now came with conditions or not at all, and kingdoms began to lay claim to the wealth and artifacts that the Black Cloaks had obtained. 
