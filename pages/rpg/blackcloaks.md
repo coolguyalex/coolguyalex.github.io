@@ -4,18 +4,46 @@ title: Black Cloaks
 permalink: /blackcloaks/
 ---
 
+## Bywater Deployment Records
+#### Kept by Darj Farrier, Director III, Ventures Division
 
-# Bywater Deployment Records
+### Active Contracts 
 
-Kept by Darj Farrier, Director III, Ventures Division
+Black Cloaks are rewarded for
+- Impressing locals - 1-6 XP
+- Retreiving Artifacts - 0 - 10 XP per item
+- Mapping Dungons - 1 XP per floor
+- Clearing Hexes - 1 XP per hex
+- Identifying new enemies - 1 XP per enemy described
 
-## Notable Enemies and Monsters
+### Active Deployments 
+- Randall (Morgan M)
+- ​Mook (Morgan M)
+- Jesse Fairbrother (Caludia S)
+- Manix (Shane F)
+- Ov (Shane F)
+- Bootsy Breckenridge (Kristina M)
+- Creggy (Kristina M)
+- Striker (Jake V)
+- Rat (Jake V)
+- Red Dickson (Alex Si)
+- Fred Farmeh (Alex Si)
+- Mud (Alex Si)
+- August (Jade D.)
+- Juniper (Jade D.)
+### Missing in Action
+- Bubbles (Cameron R)
+- Ahab (Alan E)
+-  
+### Notable Enemies and Monsters
 
-- Alchemist of the Eastern Hills - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
+- **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
+- **Trapdoor Spiders** - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
+- **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
+- **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
+- **Arboreal Serpent Ghoul** - 
 
-- Trapdoor spiders - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
-
-## Dungeons 
+### Dungeons 
 Alchemist's Repose: 90% - School Crew
 - Lair of an evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
   
