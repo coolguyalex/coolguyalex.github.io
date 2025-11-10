@@ -13,7 +13,3 @@ RPG information and records for active and archived games.
 [<img src="{{ '/assets/images/BCico.png' | relative_url }}" alt="Black Cloaks poster" width="200">]({{ '/blackcloaks/' | relative_url }})
 
 [<img src="{{ '/assets/images/impasseico.png' | relative_url }}" alt="Impasse poster" width="200">]({{ '/impasse/' | relative_url }})
-
----
-
-More coming soon…
