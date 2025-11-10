@@ -7,6 +7,7 @@ permalink: /blackcloaks/
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
 
+
 ### Active Contracts 
 ## Black Cloaks are rewarded for:
 - Impressing locals - 1-6 XP
@@ -14,6 +15,7 @@ permalink: /blackcloaks/
 - Mapping Dungons - 1 XP per floor
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
+
 
 ### Active Deployments 
 - Randall (Morgan M)
@@ -32,16 +34,18 @@ permalink: /blackcloaks/
 - Juniper (Jade D)
 - Ahab (Alan E)
 
+
 ### Missing in Action
 - Bubbles (Cameron R) - Captured by the Alchemist
 - Ratbreath (Jayla Q) - Captured by the Alchemist
 - Senku (Daniel M) - Captured by the Alchemist
 - Jebediah (Jacob A) - Captured by the Alchemist
 
-## Retired
+### Retired
 ​Cthul (Johathan R) 
 Alan (Will H)
- 
+
+
 ### Notable Enemies and Monsters
 
 - **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
@@ -50,10 +54,11 @@ Alan (Will H)
 - **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
 - **Arboreal Serpent Ghoul** - 
 
+
 ### Dungeons 
 Alchemist's Repose: 90% - School Crew
 - Lair of an evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
-  
+
 Tomb of Hishep Ratep: 90% - School Crew
 - Flooded tomb on the edge of a lake. Guardians endure.
 
@@ -80,6 +85,7 @@ Tower of the Winged Beast: 0%
 Temple of Forbidden Memories - 0%
 Lair of Ovoid Eyes - 0%
 
+
 ### Black Cloak Contacts
 - Ichabod - Quartermaster for black cloaks transport ship
 - Darj - Me - Black Cloak coordinator in Bywater
@@ -91,6 +97,7 @@ Lair of Ovoid Eyes - 0%
 - Ingrid - Blind Healer in Bywater
 - Harold - Smith and Tatoo artist
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers. 
+
 
 ### Deceased Recruits
 1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
