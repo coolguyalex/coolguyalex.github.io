@@ -125,3 +125,6 @@ Lair of Ovoid Eyes - 0%
 23. Burner (Jaziah B)- Killed by a glass bottle at Fort Ghoul
 24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
 25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
+
+### Other Resources
+Music
