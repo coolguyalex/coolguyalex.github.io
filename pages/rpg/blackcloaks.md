@@ -8,13 +8,11 @@ permalink: /blackcloaks/
 #### Kept by Darj Farrier, Director III, Ventures Division
 ---
 ### Active Contracts 
-#### Black Cloaks are rewarded for:
 - Impressing locals - 1-6 XP
 - Retreiving Artifacts - 0 - 10 XP per item
 - Mapping Dungons - 1 XP per floor
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
-
 
 ### Active Deployments 
 - Randall (Morgan M)
