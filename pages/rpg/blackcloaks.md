@@ -118,7 +118,7 @@ permalink: /blackcloaks/
 - **Trapdoor Spiders** - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
 - **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
 - **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
-- **Arboreal Serpent Ghoul** - 
+- **Arboreal Serpent Ghoul** 
 
 ---
 
