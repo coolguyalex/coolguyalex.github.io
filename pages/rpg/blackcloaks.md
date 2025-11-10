@@ -93,11 +93,11 @@ Lair of Ovoid Eyes - 0%
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers. 
 
 ### Deceased Recruits
-​1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
+1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
 2. Janix  (Shane F)- Consumed by flaming literature
 3. Nominal John (Alex Si) - Rest in spaghetti never forgetti.
 4. Gray Dickson (Alex Si) - Consumed by crystal skull flame
-5. ​Gruner Veltliner (Kristina M)- Blasted by steam
+5. Gruner Veltliner (Kristina M)- Blasted by steam
 6. Arthur (Jake V) - Pincushioned by guards 
 7. Cannibal Cad (Hannah) - Lept to his demise. 
 8. Cleatus (Larry S) - Swallowed by a Hydra
