@@ -6,10 +6,9 @@ permalink: /blackcloaks/
 # Black Cloaks
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
-
-
+---
 ### Active Contracts 
-## Black Cloaks are rewarded for:
+#### Black Cloaks are rewarded for:
 - Impressing locals - 1-6 XP
 - Retreiving Artifacts - 0 - 10 XP per item
 - Mapping Dungons - 1 XP per floor
