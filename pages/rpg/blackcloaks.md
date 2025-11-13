@@ -3,13 +3,13 @@ layout: default
 title: Black Cloaks
 permalink: /blackcloaks/
 ---
-
-[Jump to The Guild Initiatives](#guild-initiatives) <br>
-[Jump to The Deployments](#deployments) <br>
-[Jump to The Dungeons](#dungeons) <br>
-[Jump to Contacts](#contacts) <br>
-[Jump to Hostiles](#hostiles) <br>
-[Jump to Resources](#resources) 
+## Jump to:
+[* Guild Initiatives](#guild-initiatives) <br>
+[* The Deployments](#deployments) <br>
+[* Dungeons](#dungeons) <br>
+[* Contacts](#contacts) <br>
+[* Hostiles](#hostiles) <br>
+[* Resources](#resources) 
 
 <br>---<br>
 
