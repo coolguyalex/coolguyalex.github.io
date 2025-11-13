@@ -30,7 +30,3 @@ permalink: /rpg/
          width="200">
   </a>
 </p>
-
-<p style ="text-align:center;">
-  [<img src="{{ '/assets/images/impasseico.png' | relative_url }}" alt="Impasse poster" width="200">]({{ '/impasse/' | relative_url }})
-</p>
