@@ -7,7 +7,9 @@ permalink: /rpg/
 # Game Portals
 
 
-RPG information and records for active and archived games.
+<p style ="text-align:center";>
+  RPG information and records for active and archived games.
+</p>
 
 <br>
 
