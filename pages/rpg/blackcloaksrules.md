@@ -31,4 +31,4 @@ Example DC's for Sanity damage:
 ## Sundering and Weapon Quality
 Weapons and armor may chip and break with use.
 On PC attack rolls a _confirmed_ critical miss degrades weapon quality by 1 increment. A confirmed critical hit on a PC degrades armor quality by 1 increment. Weapons and armor can be of *Crude*, *Good*, *Excellent*, and *Masterwork* quality. Masterwork items require a double crit to degrade. 
-When quality drops below crude the item is deatroyed. 
+When quality drops below crude the item is destroyed. 
