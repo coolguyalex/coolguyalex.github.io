@@ -4,10 +4,6 @@ title: Black Cloaks
 permalink: /blackcloaks/
 ---
 
-# Black Cloaks
-## Bywater Deployment Records
-#### Kept by Darj Farrier, Director III, Ventures Division
-
 [Jump to The Guild Initiatives](#Guild-Initiatives) \
 [Jump to The Deployments](#Deployments) \
 [Jump to The Dungeons](#Dungeons) \
@@ -15,6 +11,11 @@ permalink: /blackcloaks/
 [Jump to Hostiles](#Hostiles) \
 [Jump to Resources](#Resources) 
 
+---
+
+# Black Cloaks
+## Bywater Deployment Records
+#### Kept by Darj Farrier, Director III, Ventures Division
 ---
 ## Guild Initiatives
 ### Active Contracts
