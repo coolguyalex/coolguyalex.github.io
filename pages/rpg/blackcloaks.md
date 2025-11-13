@@ -154,5 +154,7 @@ permalink: /blackcloaks/
 ---
 <br>
 
-[Back to Top](#black-cloaks) 
+<p style="text-align-center;">
+ [^ Back to Top ^](#black-cloaks) 
+</p>
 
