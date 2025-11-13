@@ -8,9 +8,12 @@ permalink: /blackcloaks/
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Director III, Ventures Division
 
-[Jump to The Black Cloaks](### The Black Cloaks) \
-[Jump to The Active Deployments](### Active Deployments) \
-[Jump to The Dungeons](### Dungeons)
+[Jump to The Active Deployments](###Active-Deployments) \
+[Jump to Deployments](###Deployments) \
+[Jump to The Dungeons](###Dungeons) \
+[Jump to The Contracts](###Contracts) \
+[Jump to The Notable Monsters](###Notable-Enemies-and-Monsters) \
+
 
 ---
 
@@ -18,7 +21,7 @@ permalink: /blackcloaks/
 - Assist the Ecologist: An ecologist is concerned that a bird's habitat will be destroyed. Help him relocate a breeding pair.
 - Investigate the missing Goats: A local goatherd claims some sort of horrible creature from the fog has been taking his goats.
 - Locate the missing Black Cloaks - A group of Black Cloaks went missing long ago while investigating rumors of a purpoted "Alchemist's Lair". 
-
+ 
 ### Standing Rewards
 - Impressing locals - 1 to 6 XP
 - Retreiving Artifacts - 0 to 10 XP per item
@@ -28,7 +31,8 @@ permalink: /blackcloaks/
 #### 
 ---
 
-### Active Deployments 
+### Deployments 
+#### Active
 - Randall (Morgan M)
 - ​Mook (Morgan M)
 - Jesse Fairbrother (Caludia S)
@@ -45,17 +49,17 @@ permalink: /blackcloaks/
 - Juniper (Jade D)
 - Ahab (Alan E)
 
-### Missing in Action
+#### Missing in Action
 - Bubbles (Cameron R) - Captured by the Alchemist
 - Ratbreath (Jayla Q) - Captured by the Alchemist
 - Senku (Daniel M) - Captured by the Alchemist
 - Jebediah (Jacob A) - Captured by the Alchemist
 
-### Retired
+#### Retired
 - ​Cthul (Johathan R)
 - Alan (Will H)
 
-### Deceased Recruits
+#### Deceased Recruits
 1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
 2. Janix  (Shane F)- Consumed by flaming literature
 3. Nominal John (Alex Si) - Rest in spaghetti never forgetti.
