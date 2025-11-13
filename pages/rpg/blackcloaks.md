@@ -4,7 +4,7 @@ title: Black Cloaks
 permalink: /blackcloaks/
 ---
 ## Jump to:
-[Guild Initiatives](#guild-initiatives)     [The Deployments](#deployments)     [Dungeons](#dungeons)     [Contacts](#contacts)     [Hostiles](#hostiles)     [Resources](#resources) <br>
+[Guild Initiatives](#guild-initiatives) &nbsp;&nbsp;&nbsp; [Deployments](#deployments) &nbsp;&nbsp;&nbsp; [Dungeons](#dungeons) &nbsp;&nbsp;&nbsp; [Contacts](#contacts) &nbsp;&nbsp;&nbsp; [Hostiles](#hostiles) &nbsp;&nbsp;&nbsp; [Resources](#resources) <br>
 ---
 <br>
 
