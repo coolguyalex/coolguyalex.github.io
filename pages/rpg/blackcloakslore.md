@@ -9,10 +9,10 @@ permalink: /blackcloakslore/
 --- 
 <br>
 
-# Black Cloaks History 
+# Black Cloaks Lore 
 ---
 
-
+## Origins
 The Black Cloaks began as a guild of scholars, cartographers, archaeologists, and dungeoneers that  sought out the ruins of ancient civilizations, sunken treasure galleons, and the burial hordes of ancient kings for knowledge, profit, and fame. 
 In time, the black cloaks became respected and feared in equal measure and at their height, the black cloaks were the consult and trade partners of kings, archmages, and warlords alike. 
 However, as their power grew, so too did their enemies: borders were closed to their passing, information once freely provided now came with conditions or not at all, and kingdoms began to lay claim to the wealth and artifacts that the Black Cloaks had obtained. 
@@ -25,12 +25,12 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 
 >Map of Kudahn<
 
+{{TOC}} 
 
 ## Timeline
-
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
-
-~20,000 AE ------- Settlers land on eastern shores of Kudahn and found Tadros.
+\---\---\
+~20,000 AE \ Settlers land on eastern shores of Kudahn and found Tadros.
 ~21,000 AE------- Tadrosi learn the ways of magic from the Gr and Yagu Urak.
 ~15,000 to -11,000 AE ------- Anu exist on Anurak.
 -11,000 AE ------- Cataclysm occurs due to destabilization of Malingwe. Deep one created - shielding most of Anurak and absorbing kudahrite deposits
