@@ -1,3 +1,10 @@
+---
+layout: default
+title: southwestofnmaska
+permalink: /southwestofnmaska/
+---
+
+
 # 46 Dunuvaks southwest of Nmaska
 
 The instruments on the workbench were divided into conventional and arcane. On one end were the sextants, compasses, barometers, thermometers, and hygrometers -- devices designed to detect the subtle changes in bearing, pressure, temperature, and humidity that could herald a storm or suggest a change in the winds. On the other end were a collection of truly strange objects: gilded crystals that seemed to emit a low humming noise, a tiny cage containing an equally tiny lizard with a third eye on the top of its head, orbs filled with colored smoke that seemed to move independently of the ship’s rocking, and other bizarre sundries.
