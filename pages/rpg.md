@@ -20,7 +20,6 @@ permalink: /rpg/
          width="200">
   </a>
 </p>
-
 <br>
 
 <p style="text-align:center;">
@@ -30,3 +29,7 @@ permalink: /rpg/
          width="200">
   </a>
 </p>
+
+<br>
+
+## [RPG Blog]({{ '/blog/' | relative_url }})
