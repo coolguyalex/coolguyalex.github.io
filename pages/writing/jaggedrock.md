@@ -1,3 +1,9 @@
+---
+layout: default
+title: jaggedrock
+permalink: /jaggedrock/
+---
+
 # Uma 
 Yzra was the first born of Uma, a young orc mother of the broken arrow tribe. Yzra was a sickly and underweight baby whose life was primarily composed of fitful and feverish sleep and crying. Typically, such a weak child would not persist in the harsh environment of northeastern Ysgry coastline, but the whelp would not submit. Still, the fevers continued for months and when other children began walking Yzra still could hardly crawl without succumb to fits of shivering.
 
