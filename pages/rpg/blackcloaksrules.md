@@ -36,11 +36,13 @@ Weapons and armor may chip and break with use. Equipment damage and sundering oc
 * The weapon of an attacker may be damaged or sundered when a confirmed critical miss is rolled by the attacker.
 * Armor of a defender may be damaged or sundered when a confirmed critical hit is rolled by an attacker. 
 <br>
-Higher quality equipment can resist more damage before being destroyed.
-
+Higher quality equipment can resist more damage before being destroyed. Equipment quality is summarized in the table below.
+<br>
 | Quality | Criticals Sustained | Deciption |
 |---|---|---|
 |Crude|0|Old, rusted, or primitive equipment.|
 |Good|1|Standard issue equipment.|
 |Excellent|2|Higher grade equipment made to last.|
 |Legendary|3 (1st must be a double crit)| Unique masterwork items of excelptional quality.|
+<br>
+Repairing a piece of equipment 1 quality level is usully equal to half of its value. More exotic pieces of equipment may be more difficult to repair. 
