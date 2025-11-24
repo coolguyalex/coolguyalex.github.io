@@ -9,11 +9,10 @@ Black Cloaks primarily uses the Shadowdark system developed by Kelsey Dione. Ava
 
 
 ## Grit 
-Black Cloaks replaces the Luck point system with a Grit point system. Grit points represent your characters ability to overcome sturggles against adversity. 
-Each time your character fails a skill check they receive a grit point up to a maximum equal to their character level (minimum 1). Characters may spent grit points to add a +1 to checks and cash in up to three to gain advantage. Other PC's can also contribut to a pool to have PC's 
+Black Cloaks replaces the Shadowdark *Luck* tokens with *Grit* points. Grit represent a PC's reserve of inner strength built up by overcoming adversity. When PC's perform memorable deeds *e.g.* a moving speech, a cleverly conceived plan, a fantastic performance, a heroic sacrifice, they may receive a Grit point whether the action succeeds or fails. PC's have a maximum grit point total equal to their character level (minimum 1). Characters may spent grit points to add a +1 to checks and cash in up to three to gain advantage. Other PC's can also contribut to a pool to have PC's 
 
 ## Sanity
-Sanity represents a character's mental defenses and health. It is taxed by traumatic events, monster's special abilities, and most notably *the dark*. Sanity is equal to your Charaisma modifier (minimum 1)
+Sanity represents a character's mental defenses and health. It is taxed by traumatic events, monster's special abilities, and most notably the *Shadowdark*. Sanity is equal to your Charaisma modifier (minimum 1)
 Sanity increases every level according to class:
 * Fighter - 1d4
 *Thief - 1d4
@@ -23,12 +22,25 @@ Sanity increases every level according to class:
 When a caster fails their spellcasting check they may put their Sanity at risk to successfully cast the spell. To perform this, caster's make a CHA check (DC = Casting check) -- on a failure the caster takes 1d4 * spell lvl.
 
 Example DC's for Sanity damage:
-* DC 9 - particularly gruesome death
-* DC 12 - forcing yourself to do something mentally difficult
-* DC 15 - moving through the dark 
-* DC 18 - moving deeper into the dark
+* DC 9 - Particularly gruesome death.
+* DC 12 - Performing emotionally or mentally difficult actions.
+* DC 15 - Moving through the Shadowdark. 
+* DC 18 - Monster effects, moving deeper into the Shadowdark alone.
+
+## Confirmed Criticals 
+Critical hits and misses are classically considered to be a natural 20 and natural 1 respectviely. The natural 20 and natural 1 are often house ruled to represent double damage or a fumble. However, the probability of rolling one of these critical options is 1/10. given the frequency of rolls this ensures that criticals will happen several times a session. Moreover this creates silly, immersion-breaking situations where a 10th level experienced knight may critically miss against a pathetic kobold. 
+In order to mitigate these issues the *confirmed critical* requires a second roll. In the case of a critical hit (natural 20) the second roll must be above the target's AC and in the case of a critical miss (natural 1), the second roll must be below the target's AC. This balances interactions between high and low level creatures and reduces the frequency of crits to more reasonable levels overall without .  
 
 ## Sundering and Weapon Quality
-Weapons and armor may chip and break with use.
-On PC attack rolls a _confirmed_ critical miss degrades weapon quality by 1 increment. A confirmed critical hit on a PC degrades armor quality by 1 increment. Weapons and armor can be of *Crude*, *Good*, *Excellent*, and *Masterwork* quality. Masterwork items require a double crit to degrade. 
-When quality drops below crude the item is destroyed. 
+Weapons and armor may chip and break with use. Equipment damage and sundering occur when confirmed critial hits or misses are rolled for attacks for or against a creature. 
+* The weapon of an attacker may be damaged or sundered when a confirmed critical miss is rolled by the attacker.
+* Armor of a defender may be damaged or sundered when a confirmed critical hit is rolled by an attacker. 
+<br>
+Higher quality equipment can resist more damage before being destroyed.
+
+| Quality | Criticals Sustained | Deciption |
+|---|---|---|
+|Crude|0|Old, rusted, or primitive equipment.|
+|Good|1|Standard issue equipment.|
+|Excellent|2|Higher grade equipment made to last.|
+|Legendary|3 (1st must be a double crit)| Unique masterwork items of excelptional quality.|
