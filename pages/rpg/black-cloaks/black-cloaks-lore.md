@@ -26,7 +26,7 @@ Despite the dangers new recruits show up every spring hoping to make a name for 
 I know some of you are farm boys or street rats without he ability to read so much as a single glyph of Andros but here you'll find a collection of scrolls to help you get a sense of you're place in the world. Read with care, knowledge saves more lives than armor.
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahn-languages/' | relative_url }}">
+  <a href="{{ '/kudahn-languages' | relative_url }}">
     <img
       src="{{ '/assets/images/scroll-ico.png' | relative_url }}"
       alt="Languages of Kudahn"
@@ -35,7 +35,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahn-languages/' | relative_url }}">
+  <a href="{{ '/kudahn-languages' | relative_url }}">
     Languages of Kudahn
   </a>
 </h3>
@@ -43,7 +43,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahn-religions/' | relative_url }}">
+  <a href="{{ '/kudahn-religions' | relative_url }}">
     <img
       src="{{ '/assets/images/triskelion.png' | relative_url }}"
       alt="Religions of Kudahn"
@@ -52,7 +52,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahn-religions/' | relative_url }}">
+  <a href="{{ '/kudahn-religions' | relative_url }}">
     Religions of Kudahn
   </a>
 </h3>
@@ -60,7 +60,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahn-nations/' | relative_url }}">
+  <a href="{{ '/kudahn-nations' | relative_url }}">
     <img
       src="{{ '/assets/images/nationshield.png' | relative_url }}"
       alt="Nations of Kudahn"
@@ -69,7 +69,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahn-nations/' | relative_url }}">
+  <a href="{{ '/kudahn-nations' | relative_url }}">
     Nations of Kudahn
   </a>
 </h3>
@@ -77,7 +77,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahn-history/' | relative_url }}">
+  <a href="{{ '/kudahn-history' | relative_url }}">
     <img
       src="{{ '/assets/images/hourglass.png' | relative_url }}"
       alt="History of Kudahn"
@@ -86,13 +86,13 @@ I know some of you are farm boys or street rats without he ability to read so mu
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahn-history/' | relative_url }}">
+  <a href="{{ '/kudahn-history' | relative_url }}">
     History of Kudahn
   </a>
 </h3>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahn-magic/' | relative_url }}">
+  <a href="{{ '/kudahn-magic' | relative_url }}">
     <img
       src="{{ '/assets/images/arcane-eye.png' | relative_url }}"
       alt="Magic of Kudahn"
@@ -101,8 +101,8 @@ I know some of you are farm boys or street rats without he ability to read so mu
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahn-magic/' | relative_url }}">
-    History of Kudahn
+  <a href="{{ '/kudahn-magic' | relative_url }}">
+    Magic of Kudahn
   </a>
 </h3>
 
