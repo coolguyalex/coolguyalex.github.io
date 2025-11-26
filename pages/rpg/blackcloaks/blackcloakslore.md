@@ -18,4 +18,28 @@ It is said now that only the truly pathetic, insane, or foolish mantle the black
 Many rulers have even made a habit of forcing conscription to the guild hoping the ne’er do well might strike it rich and pay back their debts, make something of themselves, or die in some far off land and spare them the trouble. 
 
 
+<p style="text-align:center;">
+  <a href="{{ '/impasse/' | relative_url }}">
+    <img src="{{ '/assets/images/triskelion.png' | relative_url }}"
+         alt="Religions of Kudahn"
+         width="200">
+  </a>
+</p>
+
+<p style="text-align:center;">
+  <a href="{{ '/impasse/' | relative_url }}">
+    <img src="{{ '/assets/images/heraldicshield.png' | relative_url }}"
+         alt="Nations of Kudahn"
+         width="200">
+  </a>
+</p>
+
+<p style="text-align:center;">
+  <a href="{{ '/impasse/' | relative_url }}">
+    <img src="{{ '/assets/images/scroll.png' | relative_url }}"
+         alt="Languages of Kudahn"
+         width="200">
+  </a>
+</p>
+
 Back to Top
