@@ -16,7 +16,7 @@ permalink: /rpg/
 <p style="text-align:center;">
   <a href="{{ '/blackcloaks/' | relative_url }}">
     <img src="{{ '/assets/images/BCico.png' | relative_url }}"
-         alt="Black Cloaks poster"
+         alt="Link to Black Cloaks"
          width="200">
   </a>
 </p>
@@ -24,9 +24,9 @@ permalink: /rpg/
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ 'https://goblinoid.weebly.com/impasse.html' | relative_url }}">
+  <a href="goblinoid.weebly.com/impasse.html" target="_blank" rel="noopener noreferrer"></a>
     <img src="{{ '/assets/images/impasseico.png' | relative_url }}"
-         alt="Impasse Poster"
+         alt="Link to Impasse"
          width="200">
   </a>
 </p>
