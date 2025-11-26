@@ -65,31 +65,6 @@ permalink: /blackcloaks/
 - Alan (Will H)
 
 ### Deceased
-1. Shivin' Shaun (Shane F) - Fell from a tower in the moonlight
-2. Janix  (Shane F)- Consumed by flaming literature
-3. Nominal John (Alex Si) - Rest in spaghetti never forgetti.
-4. Gray Dickson (Alex Si) - Consumed by crystal skull flame
-5. Gruner Veltliner (Kristina M)- Blasted by steam
-6. Arthur (Jake V) - Pincushioned by guards 
-7. Cannibal Cad (Hannah) - Lept to his demise. 
-8. Cleatus (Larry S) - Swallowed by a Hydra
-9. Thalis Gavin) - Fell in the tomb of Hishep Ratep
-10. Dragon (Daniel M) - Fell in the tomb of Hishep Ratep
-11. Lance (Landon M) - Burned to death mid kiss
-12. Marceline (Angel S) - Killed by the Gloam
-13. Jaxson (Zuri M) - Fell in the Vacuous Pit
-14. Marshall (Gavin) - Killed in the tomb of Hishep Ratep 
-15. Roger Beaks (Victor S) - Drowned in the tomb of Hishep Ratep
-16. Ithquial (Johathan R) - Crushed in the fist of a troll
-17. Cloud (Zuri M) - Fell 100ft
-18. Drago (Daniel M) - Crushed to death by a troll's bear hug
-19. Rain (Landon M) - Murdered by bandits, burned while kissing.
-20. Flora (Meadow) - Kicked to death by a baby-headed troll
-21. Santi (Angel S) - Fell in the Vacuous Pit
-22. Creek (unknown) - Fell in the Vacuous Pit
-23. Burner (Jaziah B)- Killed by a glass bottle at Fort Ghoul
-24. Nameless (Jacob A) - Drowned on the Shore of Fort Ghoul
-25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
 
 <br>
 <img src="/assets/images/skull.png" class="section-icon">
