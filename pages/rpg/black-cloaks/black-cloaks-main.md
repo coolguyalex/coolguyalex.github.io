@@ -46,7 +46,7 @@ permalink: /black-cloaks-main/
 
 ### [Inactive]({{ '/black-cloaks-inactive/' | relative_url }}) <br>
 
-<img src="/assets/images/skull.png" class="section-icon">
+<img src="/assets/images/crowbar.png" class="section-icon">
 ---
 <br>
 
@@ -92,7 +92,7 @@ permalink: /black-cloaks-main/
 - **Arboreal Serpent Ghoul** - Enormous decayed monstrosity of a serpent capable of teleporting between trees. Observed in a closed timeloop occupyign the same space as bywater.
 - **Infected Rynagda Monstrosities** - Amalgamations of organic material: Animal, plant, and fungi seemingly all bent toward the will of Rynagda. Observed in a closed timeloop occupyign the same space as bywater.
 
-<img src="/assets/images/shield" class="section-icon">
+<img src="/assets/images/shield.png" class="section-icon">
 --- 
 <br>
 
