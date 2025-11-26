@@ -13,7 +13,7 @@ permalink: /black-cloaks-main/
 
 # Black Cloaks
 ## Bywater Deployment Records
-#### Kept by Darj Farrier, Director III, Ventures Division
+#### Kept by Darj Farrier, Captain, Anorak Initiative
 <br>
 ---
 <br>
