@@ -5,8 +5,9 @@ permalink: /kudahn-history/
 ---
 ## History
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
-|---|---|
+
 |Year|Events|
+|---|---|
 |~20,000 AE | Settlers land on eastern shores of Kudahn and found Tadros|
 |~21,000 AE | Tadrosi learn the ways of magic from the Gr and Yagu Urak|
 |~15,000 | Anu exist peacfully on Anurak|
