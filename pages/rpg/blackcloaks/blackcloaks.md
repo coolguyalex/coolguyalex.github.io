@@ -87,9 +87,7 @@ permalink: /blackcloaks/
 - **Temple of Forbidden Memories** (0%)<br>
 - **Lair of Ovoid Eyes** (0%)
 
-<br>
 <img src="/assets/images/torch.png" class="section-icon">
-
 ---
 <br>
 
@@ -105,9 +103,7 @@ permalink: /blackcloaks/
 - Harold - Smith and Tatoo artist
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers.
 
-<br>
 <img src="/assets/images/quill-and-ink.png" class="section-icon">
-
 ---
 <br>
 
@@ -115,10 +111,11 @@ permalink: /blackcloaks/
 - **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
 - **Trapdoor Spiders** - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
 - **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
-- **Unidentified Tree Creature** - powerful enemy encountered west of Bywater just of the road, materialized from a tree.
-- **Arboreal Serpent Ghoul** 
+- **Unidentified Tree Creature** - Powerful enemy encountered west of Bywater just of the road, materialized from a tree.
+- **Arboreal Serpent Ghoul** - Enormous decayed monstrosity of a serpent capable of teleporting between trees. Observed in a closed timeloop occupyign the same space as bywater.
+- **Infected Rynagda Monstrosities** - Amalgamations of organic material: Animal, plant, and fungi seemingly all bent toward the will of Rynagda. Observed in a closed timeloop occupyign the same space as bywater.
 
-<br> 
+<img src="/assets/images/shield" class="section-icon">
 --- 
 <br>
 
