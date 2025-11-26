@@ -14,8 +14,11 @@ permalink: /black-cloaks-main/
 # Black Cloaks
 ## Bywater Deployment Records
 #### Kept by Darj Farrier, Captain, Anorak Initiative
+
 <br>
+
 ---
+
 <br>
 
 ## Guild Initiatives
@@ -33,7 +36,9 @@ permalink: /black-cloaks-main/
 - Other Valuable Information - 1 to 3 XP
 
 <img src="/assets/images/compass.png" class="section-icon">
+
 ---
+
 <br>
 
 ## Deployments 
@@ -48,7 +53,9 @@ permalink: /black-cloaks-main/
 ### [Inactive]({{ '/black-cloaks-inactive/' | relative_url }}) <br>
 
 <img src="/assets/images/crowbar.png" class="section-icon">
+
 ---
+
 <br>
 
 ## Dungeons 
@@ -66,7 +73,9 @@ permalink: /black-cloaks-main/
 - **Lair of Ovoid Eyes** (0%)
 
 <img src="/assets/images/torch.png" class="section-icon">
+
 ---
+
 <br>
 
 ## Contacts
@@ -82,7 +91,9 @@ permalink: /black-cloaks-main/
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers.
 
 <img src="/assets/images/quill-and-ink.png" class="section-icon">
+
 ---
+
 <br>
 
 ## Beastiary
@@ -94,7 +105,9 @@ permalink: /black-cloaks-main/
 - **Infected Rynagda Monstrosities** - Amalgamations of organic material: Animal, plant, and fungi seemingly all bent toward the will of Rynagda. Observed in a closed timeloop occupyign the same space as bywater.
 
 <img src="/assets/images/shield.png" class="section-icon">
+
 --- 
+
 <br>
 
 ## Resources
@@ -106,7 +119,9 @@ permalink: /black-cloaks-main/
 </a>
 
 <br>
+
 ---
+
 <br>
 
 <p style="text-align-center;">
