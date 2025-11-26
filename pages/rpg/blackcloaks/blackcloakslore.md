@@ -32,6 +32,8 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
   </a>
 </p>
 
+<br>
+
 <p style="text-align:center;">
   <a href="{{ '/kudahnnations/' | relative_url }}">
     <img
@@ -47,6 +49,8 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
   </a>
 </p>
 
+<br>
+
 <p style="text-align:center;">
   <a href="{{ '/kudahnlanguages/' | relative_url }}">
     <img
@@ -61,6 +65,8 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
     Languages of Kudahn
   </a>
 </p>
+
+<br>
 
 <p style="text-align:center;">
   <a href="{{ '/kudahnhistory/' | relative_url }}">
