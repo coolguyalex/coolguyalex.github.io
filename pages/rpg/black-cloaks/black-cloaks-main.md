@@ -6,7 +6,7 @@ permalink: /black-cloaks-main/
 ## Jump to:
 <a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   Shadowdark PDF
-</a>  &nbsp;&nbsp;&nbsp;  [Lore]({{ '/black-cloaks-lore/' | relative_url }})  &nbsp;&nbsp;&nbsp; [Guild Initiatives](#guild-initiatives) &nbsp;&nbsp;&nbsp; [Deployments](#deployments) &nbsp;&nbsp;&nbsp; [Dungeons](#dungeons) &nbsp;&nbsp;&nbsp; [Contacts](#contacts) &nbsp;&nbsp;&nbsp; [Hostiles](#hostiles) &nbsp;&nbsp;&nbsp; [House Rules]({{'black-cloaks-rules/' | relative_url }}) &nbsp;&nbsp;&nbsp; [Music]({{ '/black-cloaks-music/' | relative_url }})  
+</a>  &nbsp;&nbsp;&nbsp;  [Lore]({{ '/black-cloaks-lore/' | relative_url }})  &nbsp;&nbsp;&nbsp;  [House Rules]({{'black-cloaks-rules/' | relative_url }}) &nbsp;&nbsp;&nbsp; [Guild Initiatives](#guild-initiatives) &nbsp;&nbsp;&nbsp; [Deployments](#deployments) &nbsp;&nbsp;&nbsp; [Dungeons](#dungeons) &nbsp;&nbsp;&nbsp; [Contacts](#contacts) &nbsp;&nbsp;&nbsp; [Hostiles](#hostiles) &nbsp;&nbsp;&nbsp;[Music]({{ '/black-cloaks-music/' | relative_url }})  
 
 ---
 <br>
@@ -128,3 +128,4 @@ permalink: /black-cloaks-main/
  [^ Back to Top ^](#black-cloaks) 
 </p>
 
+ 
