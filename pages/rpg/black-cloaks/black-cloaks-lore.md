@@ -87,7 +87,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
 <p style="text-align:center;">
   <a href="{{ '/kudahn-magic/' | relative_url }}">
     <img
-      src="{{ '/assets/images/.png' | relative_url }}"
+      src="{{ '/assets/images/arcane-eye.png' | relative_url }}"
       alt="Magic of Kudahn"
       width="200"
     >
