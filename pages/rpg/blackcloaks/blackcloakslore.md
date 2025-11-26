@@ -19,43 +19,53 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnreligions/' | relative_url }}">
-    <div>Religions of Kudahn</div>
+  <a href="{{ '/kudahnreligions/' | relative_url }}" style="text-decoration:none; color:inherit;">
     <img
       src="{{ '/assets/images/triskelion.png' | relative_url }}"
       alt="Religions of Kudahn"
       width="200"
+      style="display:block; margin:0 auto;"
     >
+    <div style="margin-top:0.5em;">Religions of Kudahn</div>
+  </a>
+</p>
+
+<p style="text-align:center;">
+  <a href="{{ '/kudahnnations/' | relative_url }}" style="text-decoration:none; color:inherit;">
+    <img
+      src="{{ '/assets/images/nationshield.png' | relative_url }}"
+      alt="Nations of Kudahn"
+      width="200"
+      style="display:block; margin:0 auto;"
+    >
+    <div style="margin-top:0.5em;">Nations of Kudahn</div>
+  </a>
+</p>
+
+<p style="text-align:center;">
+  <a href="{{ '/kudahnlanguages/' | relative_url }}" style="text-decoration:none; color:inherit;">
+    <img
+      src="{{ '/assets/images/scroll.png' | relative_url }}"
+      alt="Languages of Kudahn"
+      width="200"
+      style="display:block; margin:0 auto;"
+    >
+    <div style="margin-top:0.5em;">Languages of Kudahn</div>
   </a>
 </p>
 
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnnations/' | relative_url }}">
-    <div> Nations of Kudahn
-    <img src="{{ '/assets/images/nationshield.png' | relative_url }}"
-         alt="Nations of Kudahn"
-         width="200"
-      >
+  <a href="{{ '/kudahnhistory/' | relative_url }}" style="text-decoration:none; color:inherit;">
+    <img
+      src="{{ '/assets/images/houglass.png' | relative_url }}"
+      alt="History of Kudahn"
+      width="200"
+      style="display:block; margin:0 auto;"
+    >
+    <div style="margin-top:0.5em;">History of Kudahn</div>
   </a>
 </p>
 
-<p style="text-align:center;">
-  <a href="{{ '/kudahnlanguages/' | relative_url }}">
-    <div> Languages of Kudahn
-    <img src="{{ '/assets/images/scroll.png' | relative_url }}"
-         alt="Languages of Kudahn"
-         width="200">
-  </a>
-  
-</p>
-<p style="text-align:center;">
-  <a href="{{ '/kudahnhistory/' | relative_url }}">
-    <div> History of Kudahn
-    <img src="{{ '/assets/images/hourglass.png' | relative_url }}"
-         alt="History of Kudahn"
-         width="200">
-  </a>
-</p>
 
 Back to Top
