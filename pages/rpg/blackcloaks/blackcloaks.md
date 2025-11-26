@@ -94,6 +94,9 @@ permalink: /blackcloaks/
 25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
 
 <br>
+<img src="/assets/images/brokenarrow.png"
+     style="transform: rotate(45deg); width:150px;">
+
 ---
 <br>
 
