@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Magic of Kudahn
+permalink: /kudahnmagic/
+---
 ## Kudahros and the Kudahr Field
 #### Alar Shay,  M.A.P. Department of Arcanics,  Ulangatun Athenaeum
 ### Abstract
