@@ -31,8 +31,7 @@ permalink: /blackcloaks/
 - Identifying new enemies - 1 XP per enemy described
 
 <img src="/assets/images/crowbar.png"
-     style="transform: rotate(45deg); width:50px;">
-
+     style="transform: width:50px;">
 
 <br>
 ---
