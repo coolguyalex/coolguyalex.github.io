@@ -1,5 +1,9 @@
-
-## Timeline
+---
+layout: default
+title: History of Kudahn
+permalink: /kudahnhistory/
+---
+## History
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
 \---\---\
 ~20,000 AE \ Settlers land on eastern shores of Kudahn and found Tadros.
