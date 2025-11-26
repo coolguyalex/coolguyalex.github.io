@@ -5,12 +5,14 @@ permalink: /kudahnhistory/
 ---
 ## History
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
-\---\---\
-~20,000 AE \ Settlers land on eastern shores of Kudahn and found Tadros.
-~21,000 AE------- Tadrosi learn the ways of magic from the Gr and Yagu Urak.
-~15,000 to -11,000 AE ------- Anu exist on Anurak.
--11,000 AE ------- Cataclysm occurs due to destabilization of Malingwe. Deep one created - shielding most of Anurak and absorbing kudahrite deposits
--3,000 AE ------- The Gr led by Ysgr begin conquest south form the Kylgyr mountains
+|---|---|
+|Year|Events|
+|~20,000 AE | Settlers land on eastern shores of Kudahn and found Tadros.|
+|~21,000 AE | Tadrosi learn the ways of magic from the Gr and Yagu Urak.|
+|~15,000 | Anu exist peacfully on Anurak.|
+|-11,000 AE| Cataclysm occurs due to destabilization of Malingwe. Deep one created - shielding most of Anurak and absorbing kudahrite deposits
+|-3,000 AE | The Gr led by Ysgr begin conquest south form the Kylgyr mountains.|
+
 -2,900 AE ------- Ysgr empire extends across all land and islands north of Buckler Mountains and west of the Spine of Uros
 -2,700 AE ------- Yan Yandora leads rebellion and begins guerilla uprising that would lead to breaking of the Ysgr empire.
 -2,725 AE / 0 1E ------- Yandoran declares independence. Beginning of the first Era

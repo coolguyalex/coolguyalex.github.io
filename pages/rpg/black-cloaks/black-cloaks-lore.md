@@ -33,22 +33,6 @@ I know some of you are farm boys or street rats without he ability to read so mu
   </a>
 </h3>
 
-
-<p style="text-align:center;">
-  <a href="{{ '/kudahn-religions/' | relative_url }}">
-    <img
-      src="{{ '/assets/images/triskelion.png' | relative_url }}"
-      alt="Religions of Kudahn"
-      width="200"
-    >
-  </a>
-</p>
-<h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahn-religions/' | relative_url }}">
-    Religions of Kudahn
-  </a>
-</h3>
-
 <br>
 
 <p style="text-align:center;">
