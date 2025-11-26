@@ -20,7 +20,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 
 <p style="text-align:center;">
   <a href="{{ '/kudahnreligions/' | relative_url }}">
-    Religions of Kudahn
+    <br> Religions of Kudahn
     <img src="{{ '/assets/images/triskelion.png' | relative_url }}"
          alt="Religions of Kudahn"
          width="200">
@@ -29,7 +29,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 
 <p style="text-align:center;">
   <a href="{{ '/kudahnnations/' | relative_url }}">
-    Nations of Kudahn
+    <br> Nations of Kudahn
     <img src="{{ '/assets/images/nationshield.png' | relative_url }}"
          alt="Nations of Kudahn"
          width="200">
@@ -38,7 +38,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 
 <p style="text-align:center;">
   <a href="{{ '/kudahnlanguages/' | relative_url }}">
-    Languages of Kudahn
+    <br> Languages of Kudahn
     <img src="{{ '/assets/images/scroll.png' | relative_url }}"
          alt="Languages of Kudahn"
          width="200">
@@ -47,7 +47,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 </p>
 <p style="text-align:center;">
   <a href="{{ '/kudahnhistory/' | relative_url }}">
-    History of Kudahn
+    <br> History of Kudahn
     <img src="{{ '/assets/images/hourglass.png' | relative_url }}"
          alt="History of Kudahn"
          width="200">
