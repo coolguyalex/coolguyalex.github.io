@@ -38,6 +38,12 @@ permalink: /blackcloaks/
 
 ## Deployments 
 #### Active
+- August (Jade D)
+- Juniper (Jade D)
+- Ahab (Alan E)
+- Pierre
+
+### Unknown
 - Randall (Morgan M)
 - ​Mook (Morgan M)
 - Jesse Fairbrother (Caludia S)
@@ -50,9 +56,6 @@ permalink: /blackcloaks/
 - Red Dickson (Alex Si)
 - Fred Farmeh (Alex Si)
 - Mud (Alex Si)
-- August (Jade D)
-- Juniper (Jade D)
-- Ahab (Alan E)
 
 ### Missing in Action
 - Bubbles (Cameron R) - Captured by the Alchemist
