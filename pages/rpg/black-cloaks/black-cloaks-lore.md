@@ -3,7 +3,7 @@ layout: default
 title: Black Cloaks
 permalink: /black-cloaks-lore/
 ---
-# Black Cloaks Compendium 
+# Black Cloaks Lore
 ---
 
 ## Origins
