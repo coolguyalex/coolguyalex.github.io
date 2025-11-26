@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Languages of Kudahn
+permalink: /kudahnlanguages/
+---
 ## Languages of Kudahn
 #### Hedial Mertashar, Professor of Linguistics, University of K'uvu
 ### Andros
