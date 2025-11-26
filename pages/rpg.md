@@ -37,10 +37,10 @@ permalink: /rpg/
   <a href ="{{ '/blog/' | relative_url }}">
   RPG Blog
   </a>
-  </h3>
+</h3>
 
 <h3 style="text-align:center;">
-  DM Resources
   <a href ="{{ '/DMResources/' | relative_url }}">
+    DM Resources
   </a>
 </h3>
