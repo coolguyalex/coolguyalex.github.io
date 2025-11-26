@@ -30,7 +30,7 @@ permalink: /blackcloaks/
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
 
-<img src="/assets/images/crowbar.png" class="section-icon">
+<img src="/assets/images/compass.png" class="section-icon">
 
 <br>
 ---
@@ -92,7 +92,7 @@ permalink: /blackcloaks/
 25. Fiora (Owen D) - Harpooned by a guard while escpaing the Albatross
 
 <br>
-<img src="/assets/images/torch.png" class="section-icon">
+<img src="/assets/images/skull.png" class="section-icon">
 
 ---
 <br>
@@ -112,7 +112,7 @@ permalink: /blackcloaks/
 - **Lair of Ovoid Eyes** (0%)
 
 <br>
-<img src="/assets/images/shield.png" class="section-icon">
+<img src="/assets/images/torch.png" class="section-icon">
 
 ---
 <br>
