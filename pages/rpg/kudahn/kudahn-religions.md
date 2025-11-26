@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Religions of Kudahn
-permalink: /kudahnreligions/
+permalink: /kudahn-religions
 ---
 
 # Religions of Kudahn
