@@ -24,7 +24,7 @@ permalink: /rpg/
 <br>
 
 <p style="text-align:center;">
-  <a href="goblinoid.weebly.com/impasse.html" target="_blank" rel="noopener noreferrer"></a>
+  <a href="goblinoid.weebly.com/impasse.html" target="_blank" rel="noopener noreferrer">
     <img src="{{ '/assets/images/impasse-ico.png' | relative_url }}"
          alt="Link to Impasse"
          width="200">
