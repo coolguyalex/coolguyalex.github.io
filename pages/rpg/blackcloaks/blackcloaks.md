@@ -30,6 +30,10 @@ permalink: /blackcloaks/
 - Clearing Hexes - 1 XP per hex
 - Identifying new enemies - 1 XP per enemy described
 
+<img src="/assets/images/crowbar.png"
+     style="transform: rotate(45deg); width:50px;">
+
+
 <br>
 ---
 <br>
