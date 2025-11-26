@@ -91,6 +91,8 @@ I know some of you are farm boys or street rats without he ability to read so mu
   </a>
 </h3>
 
+<br>
+
 <p style="text-align:center;">
   <a href="{{ '/kudahn-magic' | relative_url }}">
     <img
