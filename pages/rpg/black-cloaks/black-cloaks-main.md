@@ -102,7 +102,7 @@ permalink: /black-cloaks-main/
 - **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
 - **Unidentified Tree Creature** - Powerful enemy encountered west of Bywater just of the road, materialized from a tree.
 - **Arboreal Serpent Ghoul** - Enormous decayed monstrosity of a serpent capable of teleporting between trees. Observed in a closed timeloop occupyign the same space as bywater.
-- **Infected Rynagda Monstrosities** - Amalgamations of organic material: Animal, plant, and fungi seemingly all bent toward the will of Rynagda. Observed in a closed timeloop occupyign the same space as bywater.
+- **Infected Rynagda Monstrosities** - Amalgamations of organic material: Animal, plant, and fungi seemingly all bent toward the will of Rynagda. Observed in a closed timeloop occupying the same space as bywater.
 
 <img src="/assets/images/shield.png" class="section-icon">
 

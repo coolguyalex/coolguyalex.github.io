@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History of Kudahn
-permalink: /kudahnhistory/
+permalink: /kudahn-history/
 ---
 ## History
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
