@@ -3,11 +3,6 @@ layout: default
 title: Religions of Kudahn
 permalink: /kudahnreligions/
 ---
----
-layout: default
-title: Religions of Kudahn
-permalink: /kudahnreligions/
----
 
 # Religions of Kudahn
 #### Compiled by Qassin Dohar, Sc.N.P., Dept. of Comparative Religion, Oso Arcanum
