@@ -44,7 +44,7 @@ permalink: /black-cloaks/
 - Endok (Cameron R)
 
 
-[### Inactive]({{ '/black-cloaks-inactive/' | relative_url }}) <br>
+### [Inactive]({{ '/black-cloaks-inactive/' | relative_url }}) <br>
 
 <img src="/assets/images/skull.png" class="section-icon">
 ---
