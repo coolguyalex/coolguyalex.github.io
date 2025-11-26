@@ -17,55 +17,66 @@ Today the Black Cloaks are composed of a venerable old guard and an increasingly
 It is said now that only the truly pathetic, insane, or foolish mantle the black cloak willingly. 
 Many rulers have even made a habit of forcing conscription to the guild hoping the ne’er do well might strike it rich and pay back their debts, make something of themselves, or die in some far off land and spare them the trouble. 
 
-
 <p style="text-align:center;">
-  <a href="{{ '/kudahnreligions/' | relative_url }}" style="text-decoration:none; color:inherit;">
+  <a href="{{ '/kudahnreligions/' | relative_url }}">
     <img
       src="{{ '/assets/images/triskelion.png' | relative_url }}"
       alt="Religions of Kudahn"
       width="200"
-      style="display:block; margin:0 auto;"
     >
-    <div style="margin-top:0.5em;">Religions of Kudahn</div>
+  </a>
+</p>
+<p style="text-align:center; margin-top:0.5em;">
+  <a href="{{ '/kudahnreligions/' | relative_url }}">
+    Religions of Kudahn
   </a>
 </p>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnnations/' | relative_url }}" style="text-decoration:none; color:inherit;">
+  <a href="{{ '/kudahnnations/' | relative_url }}">
     <img
       src="{{ '/assets/images/nationshield.png' | relative_url }}"
       alt="Nations of Kudahn"
       width="200"
-      style="display:block; margin:0 auto;"
     >
-    <div style="margin-top:0.5em;">Nations of Kudahn</div>
+  </a>
+</p>
+<p style="text-align:center; margin-top:0.5em;">
+  <a href="{{ '/kudahnnations/' | relative_url }}">
+    Nations of Kudahn
   </a>
 </p>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnlanguages/' | relative_url }}" style="text-decoration:none; color:inherit;">
+  <a href="{{ '/kudahnlanguages/' | relative_url }}">
     <img
       src="{{ '/assets/images/scroll.png' | relative_url }}"
       alt="Languages of Kudahn"
       width="200"
-      style="display:block; margin:0 auto;"
     >
-    <div style="margin-top:0.5em;">Languages of Kudahn</div>
+  </a>
+</p>
+<p style="text-align:center; margin-top:0.5em;">
+  <a href="{{ '/kudahnlanguages/' | relative_url }}">
+    Languages of Kudahn
   </a>
 </p>
 
-
 <p style="text-align:center;">
-  <a href="{{ '/kudahnhistory/' | relative_url }}" style="text-decoration:none; color:inherit;">
+  <a href="{{ '/kudahnhistory/' | relative_url }}">
     <img
       src="{{ '/assets/images/houglass.png' | relative_url }}"
       alt="History of Kudahn"
       width="200"
-      style="display:block; margin:0 auto;"
     >
-    <div style="margin-top:0.5em;">History of Kudahn</div>
   </a>
 </p>
+<p style="text-align:center; margin-top:0.5em;">
+  <a href="{{ '/kudahnhistory/' | relative_url }}">
+    History of Kudahn
+  </a>
+</p>
+
 
 
 Back to Top
