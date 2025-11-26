@@ -41,7 +41,8 @@ permalink: /blackcloaks/
 - August (Jade D)
 - Juniper (Jade D)
 - Ahab (Alan E)
-- Pierre
+- Pierre (Alan E)
+- Endok (Cameron R)
 
 ### Unknown
 - Randall (Morgan M)
