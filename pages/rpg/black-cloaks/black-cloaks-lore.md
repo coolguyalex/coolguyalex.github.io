@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Black Cloaks
-permalink: /blackcloakslore/
+permalink: /black-cloaks-lore/
 ---
 # Black Cloaks Lore 
 ---
@@ -20,7 +20,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 ---
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnreligions/' | relative_url }}">
+  <a href="{{ '/kudahn-religions/' | relative_url }}">
     <img
       src="{{ '/assets/images/triskelion.png' | relative_url }}"
       alt="Religions of Kudahn"
@@ -29,7 +29,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahnreligions/' | relative_url }}">
+  <a href="{{ '/kudahn-religions/' | relative_url }}">
     Religions of Kudahn
   </a>
 </h3>
@@ -37,7 +37,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnnations/' | relative_url }}">
+  <a href="{{ '/kudahn-nations/' | relative_url }}">
     <img
       src="{{ '/assets/images/nationshield.png' | relative_url }}"
       alt="Nations of Kudahn"
@@ -46,7 +46,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahnnations/' | relative_url }}">
+  <a href="{{ '/kudahn-nations/' | relative_url }}">
     Nations of Kudahn
   </a>
 </h3>
@@ -54,7 +54,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnlanguages/' | relative_url }}">
+  <a href="{{ '/kudahn-languages/' | relative_url }}">
     <img
       src="{{ '/assets/images/scroll.png' | relative_url }}"
       alt="Languages of Kudahn"
@@ -63,7 +63,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahnlanguages/' | relative_url }}">
+  <a href="{{ '/kudahn-languages/' | relative_url }}">
     Languages of Kudahn
   </a>
 </h3>
@@ -71,7 +71,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahnhistory/' | relative_url }}">
+  <a href="{{ '/kudahn-history/' | relative_url }}">
     <img
       src="{{ '/assets/images/hourglass.png' | relative_url }}"
       alt="History of Kudahn"
@@ -80,7 +80,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/kudahnhistory/' | relative_url }}">
+  <a href="{{ '/kudahn-history/' | relative_url }}">
     History of Kudahn
   </a>
 </h3>

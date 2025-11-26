@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Black Cloaks
-permalink: /blackcloaks/
+permalink: /black-cloaks/
 ---
 ## Jump to:
-[Guild Initiatives](#guild-initiatives) &nbsp;&nbsp;&nbsp; [Deployments](#deployments) &nbsp;&nbsp;&nbsp; [Dungeons](#dungeons) &nbsp;&nbsp;&nbsp; [Contacts](#contacts) &nbsp;&nbsp;&nbsp; [Hostiles](#hostiles) &nbsp;&nbsp;&nbsp; [House Rules]({{'blackcloaksrules/' | relative_url }}) &nbsp;&nbsp;&nbsp; [Lore]({{ '/blackcloakslore/' | relative_url }})  &nbsp;&nbsp;&nbsp; [Music]({{ '/blackcloaksmusic/' | relative_url }})  &nbsp;&nbsp;&nbsp; 
+[Guild Initiatives](#guild-initiatives) &nbsp;&nbsp;&nbsp; [Deployments](#deployments) &nbsp;&nbsp;&nbsp; [Dungeons](#dungeons) &nbsp;&nbsp;&nbsp; [Contacts](#contacts) &nbsp;&nbsp;&nbsp; [Hostiles](#hostiles) &nbsp;&nbsp;&nbsp; [House Rules]({{'black-cloaks-rules/' | relative_url }}) &nbsp;&nbsp;&nbsp; [Lore]({{ '/black-cloaks-lore/' | relative_url }})  &nbsp;&nbsp;&nbsp; [Music]({{ '/black-cloaks-music/' | relative_url }})  &nbsp;&nbsp;&nbsp; 
 <a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   Shadowdark PDF
 </a> <br>
@@ -43,9 +43,8 @@ permalink: /blackcloaks/
 - Pierre (Alan E)
 - Endok (Cameron R)
 
-<a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-  ### Inactive Deployments
-</a>
+
+[### Inactive]({{ '/black-cloaks-inactive/' | relative_url }}) <br>
 
 <img src="/assets/images/skull.png" class="section-icon">
 ---
@@ -98,9 +97,9 @@ permalink: /blackcloaks/
 <br>
 
 ## Resources
-[House Rules]({{'blackcloaksrules/' | relative_url }})<br>
-[Lore]({{ '/blackcloakslore/' | relative_url }}) <br>
-[Music]({{ '/blackcloaksmusic/' | relative_url }}) <br>
+[House Rules]({{'black-cloaks-rules/' | relative_url }})<br>
+[Lore]({{ '/black-cloaks-lore/' | relative_url }}) <br>
+[Music]({{ '/black-cloaks-music/' | relative_url }}) <br>
 <a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   Shadowdark PDF
 </a>

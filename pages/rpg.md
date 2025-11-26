@@ -14,7 +14,7 @@ permalink: /rpg/
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/blackcloaks/' | relative_url }}">
+  <a href="{{ '/black-cloaks-main/' | relative_url }}">
     <img src="{{ '/assets/images/black-cloaks-ico.png' | relative_url }}"
          alt="Link to Black Cloaks"
          width="200">
