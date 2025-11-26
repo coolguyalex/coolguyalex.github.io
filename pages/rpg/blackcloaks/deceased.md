@@ -1,4 +1,29 @@
-# Black Cloaks
+# Black Cloaks Deployments
+## Inactive Deployments
+### Whereabouts Unknown
+- Randall (Morgan M)
+- ​Mook (Morgan M)
+- Jesse Fairbrother (Caludia S)
+- Manix (Shane F)
+- Ov (Shane F)
+- Bootsy Breckenridge (Kristina M)
+- Creggy (Kristina M)
+- Striker (Jake V)
+- Rat (Jake V)
+- Red Dickson (Alex Si)
+- Fred Farmeh (Alex Si)
+- Mud (Alex Si)
+
+### Missing in Action
+- Bubbles (Cameron R) - Captured by the Alchemist
+- Ratbreath (Jayla Q) - Captured by the Alchemist
+- Senku (Daniel M) - Captured by the Alchemist
+- Jebediah (Jacob A) - Captured by the Alchemist
+
+### Retired
+- ​Cthul (Johathan R)
+- Alan (Will H)
+
 ## In Memorium
 
 Wanderers, explorers, dreamers; here we record the names of those whose torch has finally guttered out.
@@ -13,7 +38,7 @@ We remember that although eventually the darkness takes us all, if we care to ou
 6. Arthur (Jake V) - Pincushioned by guards 
 7. Cannibal Cad (Hannah) - Lept to his demise. 
 8. Cleatus (Larry S) - Swallowed by a Hydra
-9. Thalis Gavin) - Fell in the tomb of Hishep Ratep
+9. Thalis (Gavin) - Fell in the tomb of Hishep Ratep
 10. Dragon (Daniel M) - Fell in the tomb of Hishep Ratep
 11. Lance (Landon M) - Burned to death mid kiss
 12. Marceline (Angel S) - Killed by the Gloam

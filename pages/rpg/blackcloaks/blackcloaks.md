@@ -19,7 +19,7 @@ permalink: /blackcloaks/
 <br>
 ## Guild Initiatives
 ### Active Contracts
-- Assist the Ecologist: An ecologist is concerned that a bird's habitat will be destroyed. Help him relocate a breeding pair.
+- Assist the Ecologist: An eccentric man is concerned with the well-being of some winged creatures. Help him relocate a breeding pair.
 - Investigate the missing Goats: A local goatherd claims some sort of horrible creature from the fog has been taking his goats.
 - Locate the missing Black Cloaks - A group of Black Cloaks went missing long ago while investigating rumors of a purported "Alchemist's Lair". 
  
@@ -36,38 +36,16 @@ permalink: /blackcloaks/
 <br>
 
 ## Deployments 
-#### Active
+### Active
 - August (Jade D)
 - Juniper (Jade D)
 - Ahab (Alan E)
 - Pierre (Alan E)
 - Endok (Cameron R)
 
-### Unknown
-- Randall (Morgan M)
-- ​Mook (Morgan M)
-- Jesse Fairbrother (Caludia S)
-- Manix (Shane F)
-- Ov (Shane F)
-- Bootsy Breckenridge (Kristina M)
-- Creggy (Kristina M)
-- Striker (Jake V)
-- Rat (Jake V)
-- Red Dickson (Alex Si)
-- Fred Farmeh (Alex Si)
-- Mud (Alex Si)
-
-### Missing in Action
-- Bubbles (Cameron R) - Captured by the Alchemist
-- Ratbreath (Jayla Q) - Captured by the Alchemist
-- Senku (Daniel M) - Captured by the Alchemist
-- Jebediah (Jacob A) - Captured by the Alchemist
-
-### Retired
-- ​Cthul (Johathan R)
-- Alan (Will H)
-
-### Deceased
+<a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  ### Inactive Deployments
+</a>
 
 <img src="/assets/images/skull.png" class="section-icon">
 ---
@@ -107,7 +85,7 @@ permalink: /blackcloaks/
 ---
 <br>
 
-## Hostiles
+## Beastiary
 - **Alchemist of the Eastern Hills** - Underground lair beneath the hills to the east contains a moulderning lair build by an evil alchemist known to have experimented on sentient creatures. Several of our crew were captured within. 
 - **Trapdoor Spiders** - Inhabitants of the Vacuous Cave. Use silk lines as trip wires. Beware the top level and the twisting tunnels.
 - **Troll of the Western Road** - A beheaded troll which was adopted by Black Cloaks only to regenrate back into two monstrosities.
