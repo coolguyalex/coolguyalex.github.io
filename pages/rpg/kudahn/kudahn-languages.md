@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Languages of Kudahn
-permalink: /kudahnlanguages/
+permalink: /kudahn-languages/
 ---
 ## Languages of Kudahn
 #### Hedial Mertashar, Professor of Linguistics, University of K'uvu
