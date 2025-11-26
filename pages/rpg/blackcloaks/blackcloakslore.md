@@ -15,7 +15,9 @@ Thus, the opportunities with which the guild was left became increasingly remote
 
 Today the Black Cloaks are composed of a venerable old guard and an increasingly desperate or daring lot of recruits that show up green in the spring and are usually dead by winter.
 It is said now that only the truly pathetic, insane, or foolish mantle the black cloak willingly. 
-Many rulers have even made a habit of forcing conscription to the guild hoping the ne’er do well might strike it rich and pay back their debts, make something of themselves, or die in some far off land and spare them the trouble. 
+Many rulers have even made a habit of forcing conscription to the guild hoping the ne’er do well might strike it rich and pay back their debts, make something of themselves, or die in some far off land and spare them the trouble. The world of Kudahn is vast and ancient. People, Religions, and Empires have risen and fallen manny times over in the tens of thousands of years that the Zidani scholars have been able to trace it's history back. The only thing for sure is that the Black Cloaks will be traveling farther and delvinng deeper than any others to find out the continet's secrets.
+
+---
 
 <p style="text-align:center;">
   <a href="{{ '/kudahnreligions/' | relative_url }}">
