@@ -14,6 +14,13 @@ And so it was that the opportunities with which the guild was left became increa
 Despite the dangers new recruits show up every spring hoping to make a name for themselves, strike it rich, or finally discover the answers to questions they have long held close to their hearts. Many find what they are seeking in the darkness but many more never come out. The dangers are difficult to overstate and I have lost count of the number of Black Cloaks that have been stabbed, sliced, maimed, crushed, eaten, poisoned, starved, dessicated, burned, drowned, entombed, envenomated, defenestrated, annd otherwise killed. Consider yourself warned. The world of Kudahn is vast and ancient. People, Religions, and Empires have risen and fallen manny times over in the tens of thousands of years that the Zidani scholars have been able to trace it's history back. The only thing for sure is that the you will be traveling farther and delvinng deeper than anyone to find out the continet's secrets.
 
 ---
+
+<br>
+
+<br>
+
+<br>
+
 ## Compendium
 
 I know some of you are farm boys or street rats without he ability to read so much as a single glyph of Andros but here you'll find a collection of scrolls to help you get a sense of you're place in the world. Read with care, knowledge saves more lives than armor.
