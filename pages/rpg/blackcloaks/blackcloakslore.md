@@ -28,7 +28,7 @@ Many rulers have even made a habit of forcing conscription to the guild hoping t
 
 <p style="text-align:center;">
   <a href="{{ '/impasse/' | relative_url }}">
-    <img src="{{ '/assets/images/heraldicshield.png' | relative_url }}"
+    <img src="{{ '/assets/images/nationshield.png' | relative_url }}"
          alt="Nations of Kudahn"
          width="200">
   </a>
