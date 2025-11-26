@@ -1,3 +1,10 @@
+
+---
+layout: default
+title: Black Cloaks Inactive
+permalink: /black-cloaks-inactive/
+---
+
 # Black Cloaks Deployments
 ## Inactive Deployments
 ### Whereabouts Unknown

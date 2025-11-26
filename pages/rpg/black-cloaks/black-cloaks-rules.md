@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Black Cloaks
-permalink: /blackcloaksrules/
+permalink: /black-cloaks-rules/
 ---
 
 # Black Cloaks House Rules 

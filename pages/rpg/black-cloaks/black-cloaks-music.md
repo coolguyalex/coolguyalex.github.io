@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Black Cloaks
-permalink: /blackcloaksmusic/
+permalink: /black-cloaks-music/
 ---
 
 # Black Cloaks Music

@@ -16,7 +16,7 @@ Despite the dangers new recruits show up every spring hoping to make a name for 
 ---
 ## Compendium
 
-I know some of you are farm boys or street rats without he ability to read so much as a single glyph of Andros but here you'll find a collection of scrolls to help you get a sense of you're place in the world. Read carefully, some of this might save your life.
+I know some of you are farm boys or street rats without he ability to read so much as a single glyph of Andros but here you'll find a collection of scrolls to help you get a sense of you're place in the world. Read with care, knowledge saves more lives than armor.
 
 <p style="text-align:center;">
   <a href="{{ '/kudahn-religions/' | relative_url }}">
