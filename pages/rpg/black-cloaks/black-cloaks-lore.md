@@ -55,7 +55,7 @@ I know some of you are farm boys or street rats without he ability to read so mu
 <p style="text-align:center;">
   <a href="{{ '/kudahn-languages/' | relative_url }}">
     <img
-      src="{{ '/assets/images/scroll.png' | relative_url }}"
+      src="{{ '/assets/images/scroll-ico.png' | relative_url }}"
       alt="Languages of Kudahn"
       width="200"
     >
