@@ -1,3 +1,9 @@
+---
+layout: default
+title: Nations of Kudahn
+permalink: /kudahnnations/
+---
+
 ## Nations of Kudahn
 
 #### Compiled by Kasseri Konya, Sc.N.P., Department of Sovereign Dynamics, Oso Arcanum
