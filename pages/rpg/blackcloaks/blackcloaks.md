@@ -24,15 +24,14 @@ permalink: /blackcloaks/
 - Locate the missing Black Cloaks - A group of Black Cloaks went missing long ago while investigating rumors of a purported "Alchemist's Lair". 
  
 ### Standing Rewards
-- Impressing locals - 1 to 6 XP
+- Impressing locals and VIPs - 1 to 6 XP
 - Retreiving Artifacts - 0 to 10 XP per item
 - Mapping Dungons - 1 XP per floor
 - Clearing Hexes - 1 XP per hex
-- Identifying new enemies - 1 XP per enemy described
+- Identifying New Enemies - 1 XP per enemy described
+- Other Valuable Information - 1 to 3 XP
 
 <img src="/assets/images/compass.png" class="section-icon">
-
-<br>
 ---
 <br>
 
@@ -70,9 +69,7 @@ permalink: /blackcloaks/
 
 ### Deceased
 
-<br>
 <img src="/assets/images/skull.png" class="section-icon">
-
 ---
 <br>
 
@@ -109,7 +106,7 @@ permalink: /blackcloaks/
 - Piper - Young girl conscripted into the black cloaks after her family was murdered by soldiers.
 
 <br>
-<img src="/assets/images/broken-arrow" class="section-icon">
+<img src="/assets/images/quill-and-ink.png" class="section-icon">
 
 ---
 <br>
