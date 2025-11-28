@@ -32,23 +32,27 @@ Dwarves tend towards highly rational but peaceful relations with other species. 
 ### Cultures
 The Culture of Dwarves is quite rigid and considered oppressive by crritics. Many dwarves practice the same craft their entire life but pride themsleves on their work however mundance. This is supported by a cultural norm of honoring and honoring all positions and societal niches. Personal realtionships are often quite deep as well with bonded pairs remaining to gether for a century or more. Dwarves highly ordered culture makes them a natural fit for technological innovation and dwarven-made mechanical devices are used the world over. Dwarves are also responsible for the majority of advances in mathematics, natural phiosophy, and even lingustics having created the widely used Gundan-made script.
 ### History 
-Dwarves seem to be a product of the Cataclysm and appear a few thousand years after 
+Dwarves seem to be a product of the Cataclysm in and appear a few thousand years after 
 ---
 
-## **Gnomes**
-A subspecies of dwarf, gnomes are shorter, longer-haired, and dramatically more expressive. Rejecting what they view as dwarven authoritarianism, gnomish societies prize liberty, creativity, and merit above all else. Their neighborhoods—often embedded inside greater dwarven or human cities—are hubs of mathematics, banking, construction, invention, art, and scientific rigor. Their mixture of obsessive focus and flamboyant expression makes them natural collaborators with goblins, with whom they often live (though they cannot produce offspring). Gnomes can interbreed with humans, dwarves, and halflings, adding to their cosmopolitan reputation.  
-
----
-
-## **Halflings**
-A small-statured people of debated origin—possibly derived from gnomes, dwarves, or humans—halflings maintain strong cultural identity despite few independent settlements. Curious, clever, and intuitively attuned to the world, halflings cherish hospitality, food, storytelling, and craftsmanship. Many of the greatest chefs, vintners, musicians, and artisan-guilds across Khūdan are halfling-run. Though they dislike war, halflings are surprisingly resilient and longer-lived than most humans, and when threatened, they fight with unexpected ferocity. They readily integrate into human, gnomish, or dwarven societies.  
-
----
-
-## **Orcs**
-Among the first inhabitants of Khūdan, orcs (alongside goblins) form the core of what scholars call the “New Races.” Spread across every nation, orcs prefer self-governed, fortified settlements, thriving in tundra, desert, jungle, or sea. Their culture is strongly traditional, emphasizing family, honor, legacy, and the **Four Primordials**. Renowned as warriors, knights, samurai, and mercenaries, orcs were instrumental in halting Andor’s expansion and play a vital role in naval traditions—many captains consider an orcless ship doomed. Physically imposing, thick-haired, and often tattooed with achievements deemed worthy by master-artists, they blend martial, spiritual, and communal values.  
+## **Gnomes (Gnomi)**
+A subspecies of dwarf which has become distinctive enough to warrant its own discussion. Gnomes are universally much smaller and slighter, longer-haired, and culturaly very different from their dwarven ancestors.  Gnomish culture is dramatically more expressive and rejects what they view as dwarven rigidity.  Gnomish societies prize liberty, creativity, and merit above all else. Their neighborhoods—often embedded inside greater dwarven or human cities—are hubs of mathematics, banking, construction, invention, art, and scientific rigor. 
+### Dispersal
+Gnomes are concentrated in the southern part of the Spine of Uros and have particularly large populations in the Eastern borders of the states of Gazu and the independent city state of Ulungatun at the southern tip of Kudahn. 
+### Relations
+Gnomes have good relations with most other Species and Cultures with a notable exception being animosity built through the many years of war with Doran and the states of Gazu. Gnomish mixture of obsessive focus and flamboyant expression makes them natural collaborators with goblins, with whom they often live (though they cannot produce offspring). Gnomes can interbreed with humans, dwarves, and halflings, adding to their cosmopolitan reputation.  
 
 ---
 
-## **Goblins**
-Small, wiry, and astonishingly adaptable, goblins have the widest cultural diversity of any people in Khūdan—from sophisticated city-states with libraries and schools to feral nomadic tribes with no written history. Fossil evidence suggests goblins were the **first** intelligent inhabitants of the continent, with a branch eventually evolving into orcs. Goblin art is wild, expressive, and unpredictable; goblin tactics even more so, making any fight with them dangerously inventive. Though pushed into harsher lands by human expansion, goblins have also integrated into nearly every society with surprising ease. Resourcefulness and creativity are their defining traits.  
+## **Halflings (Kudi)**
+A small-statured people of debated origin—possibly derived from gnomes, dwarves, or humans—halflings maintain strong cultural identity despite few independent settlements. Curious, clever, and intuitively attuned to the world, halflings seem alsmot innately gifted in subtle magics and form a major part of the scholars and magic-users in Tadros and throughout the world. Though thier cosmopolitan distribution and adaptability makes them hard to generalize, halflings cherish hospitality, food, storytelling, and craftsmanship. Many of the greatest chefs, vintners, musicians, and artisan-guilds across Khūdan are halfling-run. Though they dislike war, halflings are surprisingly resilient and longer-lived than most humans, and when threatened, they fight with unexpected ferocity. They readily integrate into human, gnomish, or dwarven societies.  
+
+---
+
+## **Orcs (Gr)**
+Among the first inhabitants of Khūdan, orcs (alongside goblins) form the core of what scholars call the “New Races.” Orcs are primarily loacated in the arctic nation of Ysgr with secondary population centers in Munar, northern Doran,  the states of Gazu and the Aongh. Orcs prefer self-governed, fortified settlements, thriving in tundra, desert, jungle, or sea. Their culture is strongly traditional, emphasizing family, honor, legacy, and the **Four Primordials**. Renowned as warriors, knights, samurai, and mercenaries, orcs were instrumental in halting Andor’s expansion and play a vital role in naval traditions—many captains consider an orcless ship doomed. Physically imposing, thick-haired, and often tattooed with achievements deemed worthy by master-artists, they blend martial, spiritual, and communal values.  
+
+---
+
+## **Goblins (Yagu Urak)**
+Small, wiry, and astonishingly diverse and physically resilient, goblins have the widest cultural and climatic diversity of any people in Khūdan—from sophisticated city-states with libraries and schools to feral nomadic tribes with no written history. Fossil evidence suggests goblins were the **first** intelligent inhabitants of the continent, and are likley the progenitors of orcs. Goblin art is wild, expressive, and unpredictable; goblin tactics even more so, making any fight with them dangerously inventive. Though pushed into harsher lands by human expansion, goblins have also integrated into nearly every society with surprising ease. Resourcefulness and creativity are their defining traits.  
