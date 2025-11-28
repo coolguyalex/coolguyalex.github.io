@@ -24,6 +24,22 @@ Despite the dangers new recruits show up every spring hoping to make a name for 
 I know some of you are farm boys or street rats without he ability to read so much as a single glyph of Andros but here you'll find a collection of scrolls to help you get a sense of you're place in the world. Read with care, knowledge saves more lives than armor.
 
 <p style="text-align:center;">
+  <a href="{{ '/kudahn-species/' | relative_url }}">
+    <img
+      src="{{ '/assets/images/species-tree.png' | relative_url }}"
+      alt="Languages of Kudahn"
+      width="200"
+    >
+  </a>
+</p>
+<h3 style="text-align:center; margin-top:0.5em;">
+  <a href="{{ '/kudahn-species/' | relative_url }}">
+    Species of Kudahn
+  </a>
+</h3>
+
+<br>
+<p style="text-align:center;">
   <a href="{{ '/kudahn-languages/' | relative_url }}">
     <img
       src="{{ '/assets/images/scroll-ico.png' | relative_url }}"
