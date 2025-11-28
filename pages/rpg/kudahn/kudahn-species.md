@@ -5,15 +5,15 @@
 
 ## **Humans (Umani)**
 ### Overview 
-Humans are a highly varied and adaptable race. Humans can be found in all corners of Kudahn in a myriad of cultures and societies.
+Humans are a highly varied and adaptable race and can be found in all corners of Kudahn in a myriad of cultures and societies. They have a remarkable ability to interbreed with nearly all other sentient species are found in most nations excepting Ysgr and the Ko'lantani
 ### Dispersal
-Continent-wide 
-### History
-An active discourse surrounds the most ancient of the “Old Species" (humans, halflings, elves, dwarves, and gnomes) with humans generally considered the most likley contender but halflings finding wide support as well. The importance of answering such questions is primarily fueled by the widely accepted theory of species divergence: a postulated divergence of all the "old Species" as descendents of one mother species which was rapidly altered and dispersed during the cataclysmic "Undoing". Scholarly consensus places the arrival of humans roughly twenty-thousand years ago. 
+Most common in central Kudahn but widely dispersed continent-wide.
 ### Relations
 Initial human settlements found the "New Races": goblins and orcs well established on the continent. Relations were initially amicable, but over centuries competition, disease, and migration patterns pushed native goblinoids into the margins. After the cataclysm known as "the Undoing" and the Ysgr conquests, human populations and settlements ar ehtought to have been massivley reduced. 
 ### Cultures
 Human societies resist generalization; they span democracies to tyrannies, polytheists to atheists, liberated to authoritarian. Their only constants are adaptability, resourcefulness, and historically high birth rates—now finally slowing.  
+### History
+An active discourse surrounds the most ancient of the “Old Species" (humans, halflings, elves, dwarves, and gnomes) with humans generally considered the most likley contender but halflings finding wide support as well. The importance of answering such questions is primarily fueled by the widely accepted theory of species divergence: a postulated divergence of all the "old Species" as descendents of one mother species which was rapidly altered and dispersed during the cataclysmic "Undoing". Scholarly consensus places the arrival of humans roughly twenty-thousand years ago. 
 
 ---
 
@@ -23,7 +23,11 @@ Tall, lithe, and densely muscled, the Ko’lantani are thought to be the first l
 ---
 
 ## **Dwarves (Gūndan)**
-Shorter than humans but massively built, the Gūndan are believed to be the closest of the old races to humankind and can interbreed with them. Culturally, however, they could not be more different. Dwarven society is rigorously ordered, perfection-driven, communal, and disciplined—producing the world’s finest engineers, architects, masons, endurance athletes, and game-players. Individualism is discouraged in favor of shared purpose, and dwarves judge themselves harshly through the quality of their craft. Their technologies and techniques are unmatched, though their conservatism often slows adoption of new innovations.  
+### Overview
+Although dwarves are highly physically diverse, they are primarily broken into two major sub-species of surface and subsurface dwellers. Despite thier physical differences the Dwarves are a highly ordered, communal, and disciplined people that produce the continent's finest engineers, architects, masons, warriors, and athletes. Individualism is often discouraged in favor of shared purpose, and dwarves judge themselves harshly through the quality of their craft. Their technologies and techniques are unmatched, though their conservatism often slows adoption of new innovations.  
+### Dispersal 
+Dwarves are largley found in the mountainous country of Zidan which runs North to South along the Spine of Uros for hundreds of miles.
+
 ---
 
 ## **Gnomes**
