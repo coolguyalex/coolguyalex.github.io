@@ -24,10 +24,15 @@ Tall, lithe, and densely muscled, the Ko’lantani are thought to be the first l
 
 ## **Dwarves (Gūndan)**
 ### Overview
-Although dwarves are highly physically diverse, they are primarily broken into two major sub-species of surface and subsurface dwellers. Despite thier physical differences the Dwarves are a highly ordered, communal, and disciplined people that produce the continent's finest engineers, architects, masons, warriors, and athletes. Individualism is often discouraged in favor of shared purpose, and dwarves judge themselves harshly through the quality of their craft. Their technologies and techniques are unmatched, though their conservatism often slows adoption of new innovations.  
+Although dwarves are highly physically diverse, they are primarily broken into two major sub-species of surface and subsurface dwellers. Surface dwellers are characterized by larger and taller frames, dark features and hairy bodies wheras the subsurface sub-species are much smaller and slighter and have skin eyes and hair so pale as to be near-translucent, Despite thier physical differences the Dwarves are a highly ordered, communal, and disciplined people that produce the continent's finest engineers, architects, masons, warriors, and athletes. Individualism is often discouraged in favor of shared purpose, and dwarves judge themselves harshly through the quality of their craft. Their technologies and techniques are unmatched, though their conservatism often slows adoption of new innovations.  
 ### Dispersal 
 Dwarves are largley found in the mountainous country of Zidan which runs North to South along the Spine of Uros for hundreds of miles.
-
+### Relations
+Dwarves tend towards highly rational but peaceful relations with other species. Many Dwarves swear oaths of non-violence though there are a small but vocal group whihc endorse the use of force to restor balance when necessary. Their Primary nation of Zidan has enjoyed an uninterupted neutral and peaceful position for thousands of years.
+### Cultures
+The Culture of Dwarves is quite rigid and considered oppressive by crritics. Many dwarves practice the same craft their entire life but pride themsleves on their work however mundance. This is supported by a cultural norm of honoring and honoring all positions and societal niches. Personal realtionships are often quite deep as well with bonded pairs remaining to gether for a century or more. Dwarves highly ordered culture makes them a natural fit for technological innovation and dwarven-made mechanical devices are used the world over. Dwarves are also responsible for the majority of advances in mathematics, natural phiosophy, and even lingustics having created the widely used Gundan-made script.
+### History 
+Dwarves seem to be a product of the Cataclysm and appear a few thousand years after 
 ---
 
 ## **Gnomes**
