@@ -39,8 +39,6 @@ permalink: /rpg/
   </a>
 </h3>
 
-<br>
-
 <h3 style="text-align:center;">
   <a href ="{{ '/blog/' | relative_url }}">
  - RPG Blog
