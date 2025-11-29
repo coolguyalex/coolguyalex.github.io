@@ -28,7 +28,7 @@ Here you'll find a collection of scrolls to help you get a sense of the continen
 
 
 <p style="text-align:center;">
-  <a href="{{ '/assets/images/kudahn-map.jpg/' | relative_url }}">
+  <a href="{{ '/assets/images/kudahn-map.jpg' | relative_url }}">
     <img
       src="{{ '/assets/images/map.png' | relative_url }}"
       alt="Map of Kudahn"
@@ -37,7 +37,7 @@ Here you'll find a collection of scrolls to help you get a sense of the continen
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ '/assets/images/kudahn-map.jpg/' | relative_url }}">
+  <a href="{{ '/assets/images/kudahn-map.jpg' | relative_url }}">
     Map of Kudahn
   </a>
 </h3>
