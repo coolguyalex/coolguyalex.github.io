@@ -26,16 +26,16 @@ I know some of you are farm boys or street rats without he ability to read so mu
 <br>
 
 <p style="text-align:center;">
-  <a href="{{ '/kudahn-map/' | relative_url }}">
+  <a href="{{ '/kudahn-map.jpg/' | relative_url }}">
     <img
       src="{{ '/assets/images/maps.png' | relative_url }}"
-      alt="Maps of Kudahn"
+      alt="Map of Kudahn"
       width="200"
     >
   </a>
 </p>
 <h3 style="text-align:center; margin-top:0.5em;">
-  <a href="{{ 'assets/images/kudahn-map.jpg/' | relative_url }}">
+  <a href="{{ '/kudahn-map.jpg/' | relative_url }}">
     Map of Kudahn
   </a>
 </h3>
