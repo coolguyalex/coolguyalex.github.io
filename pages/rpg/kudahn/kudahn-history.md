@@ -6,7 +6,7 @@ permalink: /kudahn-history/
 ## History
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
 
-|True Year|Era|Description|
+|Year|Era|Description|
 |------|------|------|
 |-27650|Ancient Era|Settlers land on eastern shores of Kudahn and found Tadros|
 |-23650|Ancient Era|Tadrosi learn the ways of magic from the Gr and Yagu Urak|
@@ -16,26 +16,22 @@ permalink: /kudahn-history/
 |-350|Ancient Era|The Gr led by Ysgr begin conquest south form the Kylgyr mountains|
 |-250|Ancient Era|Ysgr empire extends across all land north of Buckler Mountains and west of the Spine of Uros|
 |-50|Ancient Era|Yan Yandora leads rebellion and begins guerilla uprising leading to the fall of the Ysgr empire|
-|0|First Republican Era|Yandoran declares independence. Beginning of the first Era|
-|1370|First Imperial Era|End of the 1st Era / beginning of the 1st Imperial Era|
-|1397|First Imperial Era|Yandoran begins to annex neighboring states|
-|1620|First Imperial Era|Doran founded / end of 1IE|
-|1620|First Imperial Era|Peace in Doran|
+|0|First Republican Era|Yandoran declares independence beginning of the first Era and religious rule|
+|1397|First Imperial Era|Yandoran annexes nearby state and elects Emperor Doro Kai I ending first era|
+|1620|First Imperial Era|Doran founded and the "Emperor's Peace" begins|
 |2120|Second Imperial Era|Beginning of Ysgr Campaigns / 2IE begins|
 |2195|Second Imperial Era|Doran declares war on Gazu|
 |2205|Second Imperial Era|Old Gazumbar formed|
-|2215|Second Imperial Era|Gazu conquered|
-|2270|Second Imperial Era|Gazumbar conquered|
+|2270|Second Imperial Era|Gazu and Gazumbar conquered, Mbar remains independent|
 |2620|Second Imperial Era|Munari Campaigns begin|
-|2623|Second Imperial Era|Firjga taken|
-|2626|Second Imperial Era|Ntyk taken|
+|2626|Second Imperial Era|Firjga  and Ntyk taken|
 |2627|Second Imperial Era|Munaerwyn-Ysgr alliance formed|
 |2635|Second Imperial Era|Elven Campaigns begin|
-|2670|Second Imperial Era|Treaty of Ntuk|
-|2670|Second Republican Era|Dorani Revolution; Republic begins|
+|2670|Second Imperial Era|Treaty of Ntuk ends elven campaigns and begins the "Grand Dorani Remaking"|
+|2670|Second Republican Era|Dorani Revolution; Kolantani Declarations protect elves; Republic begins|
 |2671|Second Republican Era|Arnakyr Island freed|
 |2695|Second Republican Era|Last Dorani soldier expelled from Gazumbar|
 |2715|Second Republican Era|States of Gazu form current borders|
-|2730|Second Republican Era|Kolantani Declarations repealed|
+|2730|Second Republican Era|Kolantani Declarations repealed with the events of Mountainhold|
 |2789|Third Imperial Era|Republic ends; 3IE begins|
 |2794|Third Imperial Era|Doran claims Anorak Island|
