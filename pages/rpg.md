@@ -40,7 +40,21 @@ permalink: /rpg/
 </h3>
 
 <h3 style="text-align:center;">
-  <a href ="{{ '/DMResources/' | relative_url }}">
+  <a href ="{{ '/kudahn-names/' | relative_url }}">
+   - Kudahn Name Chart
+  </a>
+</h3>
+
+<br>
+
+<h3 style="text-align:center;">
+  <a href ="{{ '/blog/' | relative_url }}">
+ - RPG Blog
+  </a>
+</h3>
+
+<h3 style="text-align:center;">
+  <a href ="{{ '/resources/' | relative_url }}">
    - DM Resources
   </a>
 </h3>
