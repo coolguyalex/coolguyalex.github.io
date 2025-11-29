@@ -21,14 +21,16 @@ Despite the dangers new recruits show up every spring hoping to make a name for 
 
 ## Compendium
 
-I know some of you are farm boys or street rats without he ability to read so much as a single glyph of Andros but here you'll find a collection of scrolls to help you get a sense of you're place in the world. Read with care, knowledge saves more lives than armor.
+I know some of you are farm boys or street rats that havent traveled more than a few miles in your entire life nor have the ability to read so much as a single glyph of Andros but you're a Black Cloak now and every Black Cloak is a scholar as much as an explorer.
+Here you'll find a collection of scrolls to help you get a sense of the continent of Kudahn. People say there might be other continents on this Uros but I say this one's got enough adventure for a few million lifetimes as it is. Read with care, knowledge saves more lives than armor.
 
 <br>
+
 
 <p style="text-align:center;">
   <a href="{{ '/kudahn-map.jpg/' | relative_url }}">
     <img
-      src="{{ '/assets/images/maps.png' | relative_url }}"
+      src="{{ '/assets/images/map.png' | relative_url }}"
       alt="Map of Kudahn"
       width="200"
     >
