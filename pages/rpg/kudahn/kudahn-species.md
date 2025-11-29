@@ -1,7 +1,7 @@
 ---
 layout: default
-title: History of Kudahn
-permalink: /kudahn-history/
+title: Species of Kudahn
+permalink: /kudahn-species/
 ---
 
 # **Species of Kudahn**  
