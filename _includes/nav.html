@@ -1,13 +1,16 @@
 <nav class="site-nav">
   <div class="nav-inner">
     <a class="brand" href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/images/goblinoid-logo.png' | relative_url }}"
+      <img 
+        src="{{ '/assets/images/goblinoid-logo.png' | relative_url }}"
         alt="Site Icon"
         width="20"
-        height="20">
-      class="site-icon">
+        height="20"
+        class="site-icon"
+      >
       {{ site.title }}
     </a>
+
     <div class="links">
       <a href="{{ '/rpg/' | relative_url }}">RPG</a>
       <a href="{{ '/art/' | relative_url }}">Art</a>
