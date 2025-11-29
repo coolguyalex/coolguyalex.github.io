@@ -24,7 +24,16 @@ An active discourse surrounds the most ancient of the “Old Species" (humans, h
 ---
 
 ## **Elves (Ko’lantani)**
-Tall, lithe, and densely muscled, the Ko’lantani are thought to be the first lineage to diverge from humans, giving them the longest time to develop distinct cultures, physiologies, and lifeways. When humans left their ancestral homeland, the elves remained for thousands of years, only later immigrating to Khūdan—where they found kinship with orcs and tension with humans. Elven society remains tribal and deeply tied to nature, with arch-druids guiding groups up to 10,000. Their spirituality centers on primordial gods and two major avatars: **Illūs**, the personification of elven-kind, and **K’naru**, the spirit of the wilds. Though rarely united, elven clerics travel broadly to maintain cultural continuity across scattered tribes.  
+### Overview 
+The elves are a tall, lithe, and powerfully built species which has undergone large social changes through time and has a complex relationship with humans. 
+### Dispersal 
+Elves can be found in urban settings and intermixed with other aoecies but most are found in  forested enclaves which keep to themselves for better or worse. 
+### History
+After the Cataclysm, the Ko’lantani are thought to be among the first of the "Old Races" to re-establish society, giving them the longest time to develop distinct, physiologies, cultures, and ways of life and their penchant for isolation only contributes to their uniqueness. their langauge is ranked amongt the most complex and difficult to learn and outsiders often deacribe interactions with elves as "alien" or "uncanny". 
+### Relations 
+Despite their cultural distance from others the elves have classically maintained strong alliances with orcs and goblins. Relationships with humans however, are much more complicated. Although many elven groups maintain close toes to human settlements the aggression and wars between Doran and the elves have conteibuted to a deepening rift between the two races. 
+### Cultures
+Elven society remains isolated, insular,  tribal and deeply tied to nature, with arch-druids guiding groups up to 10,000. Their spirituality centers on primordial gods and two major avatars: **Illūs**, the personification of elven-kind, and **K’naru**, the spirit of the wilds. Though rarely united, elven clerics travel broadly to maintain cultural continuity across scattered tribes.  
 
 ---
 
