@@ -1,4 +1,10 @@
-# **Ancestries of Kudahn**  
+---
+layout: default
+title: History of Kudahn
+permalink: /kudahn-history/
+---
+
+# **Species of Kudahn**  
 *Summarized from the work of Dean Oratio Duun, Tulár School for Natural Philosophy*
 
 ---
