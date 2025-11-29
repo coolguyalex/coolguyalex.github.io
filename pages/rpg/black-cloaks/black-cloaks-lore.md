@@ -23,6 +23,25 @@ Despite the dangers new recruits show up every spring hoping to make a name for 
 
 I know some of you are farm boys or street rats without he ability to read so much as a single glyph of Andros but here you'll find a collection of scrolls to help you get a sense of you're place in the world. Read with care, knowledge saves more lives than armor.
 
+<br>
+
+<p style="text-align:center;">
+  <a href="{{ '/kudahn-map/' | relative_url }}">
+    <img
+      src="{{ '/assets/images/maps.png' | relative_url }}"
+      alt="Maps of Kudahn"
+      width="200"
+    >
+  </a>
+</p>
+<h3 style="text-align:center; margin-top:0.5em;">
+  <a href="{{ 'assets/images/kudahn-map.jpg/' | relative_url }}">
+    Map of Kudahn
+  </a>
+</h3>
+
+<br>
+
 <p style="text-align:center;">
   <a href="{{ '/kudahn-species/' | relative_url }}">
     <img
