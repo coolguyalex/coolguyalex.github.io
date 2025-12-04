@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nations of Kudahn
-permalink: /kudahnnations/
+permalink: /kudahn-nations/
 ---
 
 ## Nations of Kudahn
