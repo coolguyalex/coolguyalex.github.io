@@ -25,7 +25,8 @@ permalink: /black-cloaks-main/
 ### Active Contracts
 - Assist the Ecologist: An eccentric man is concerned with the well-being of some winged creatures. Help him relocate a breeding pair.
 - Investigate the missing Goats: A local goatherd claims some sort of horrible creature from the fog has been taking his goats.
-- Locate the missing Black Cloaks - A group of Black Cloaks went missing long ago while investigating rumors of a purported "Alchemist's Lair". 
+- Locate the missing Black Cloaks - A group of Black Cloaks went missing long ago while investigating rumors of a purported "Alchemist's Lair"
+(- Retrieve the ancient sword of the Anumareans given to Marceline in a mysterious cairn.)
  
 ### Standing Rewards
 - Impressing locals and VIPs - 1 to 6 XP
