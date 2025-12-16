@@ -5,6 +5,8 @@ permalink: /resources/
 ---
 
 
+
+
 ## Custom Resources
 <h2 style="text-align:center;">
   <a href ="{{ '/kudahn-names/' | relative_url }}">
