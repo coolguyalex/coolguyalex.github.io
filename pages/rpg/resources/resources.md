@@ -4,7 +4,7 @@ title: DM Resources
 permalink: /resources/
 ---
 
-
+## [Lore]({{ '/black-cloaks-lore/' | relative_url }})  &nbsp;&nbsp;&nbsp;
 
 
 ## Custom Resources
