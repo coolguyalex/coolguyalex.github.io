@@ -11,4 +11,5 @@ A person's sense of self is a consequence of the accumulation of self descriptiv
 https://youtu.be/Ghf7tksqyaA?si=n44URGg5H7VsGAuU
 
 # Dadi 
-Draw players into exploration by using "the highlighted room". Describe things in a space in a way that draws in your players and makes them want to investigate. Use the senses. Stick to about three things. If you need more things then nest them within descriptions. 
+Draw players into exploration by using "the highlighted room". Describe things in a space in a way that draws in your players and makes them want to investigate. Use the senses. Stick to about three things. If you need more things then nest them within descriptions.
+https://youtu.be/-4Tu2zzDU3I?si=BmNDx23PPiYPubKe
