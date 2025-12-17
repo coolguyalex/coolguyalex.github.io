@@ -3,9 +3,13 @@ layout: default
 title: History of Kudahn
 permalink: /kudahn-history/
 ---
-## History
+
+# Time and History of Kudahn
+
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
 
+
+## Timekeeping and Astronomy 
 The planet of Uradros takes 240 days to rotate around it's star.
 The year is broken into 4 seasons each of which lasts 60 days. 
 A season is hroken into 3 months each lasting 20 days. 
@@ -13,6 +17,7 @@ each month contains 2 10-day weeks.
 The primary moon of Uradros, Velyk, takes an entire season to complete a cycle.
 Velyk's moon, Sarth, takes around 12 days. 
 
+## Calendar
 
 | Season | God   | Months                          |
 | ------ | ----- | ------------------------------- |
@@ -26,6 +31,7 @@ Velyk's moon, Sarth, takes around 12 days.
 <br>
 <br>
 
+## History
 
 
 |Year|Era|Description|
