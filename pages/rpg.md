@@ -5,7 +5,7 @@ permalink: /rpg/
 ---
 
 # RPGs
-You have arrived at goblinoids RPG reaource and game archive hub. 
+You have arrived at goblinoid's RPG reaource and game archive hub. 
 
  
 <h3 style="text-align:center;">
@@ -20,7 +20,7 @@ You have arrived at goblinoids RPG reaource and game archive hub.
   </a>
 </h3>
 
-# Game Portals
+## Game Portals
 
 <p style="text-align:center;">
   RPG information and records for active and archived games.
