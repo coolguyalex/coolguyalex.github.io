@@ -7,7 +7,7 @@ permalink: /rpg/
 # RPGs
 You have arrived at goblinoid's RPG reaource and game archive hub. 
 
- 
+## Resources
 <h3 style="text-align:center;">
   <a href ="{{ '/blog/' | relative_url }}">
  - RPG Blog
@@ -16,7 +16,7 @@ You have arrived at goblinoid's RPG reaource and game archive hub.
 
 <h3 style="text-align:center;">
   <a href ="{{ '/resources/' | relative_url }}">
-   - DM Resources
+   - Dungeon Mastering for goblinoids
   </a>
 </h3>
 
