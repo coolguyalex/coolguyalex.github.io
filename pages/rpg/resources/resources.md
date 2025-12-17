@@ -4,19 +4,18 @@ title: DM Resources
 permalink: /resources/
 ---
 
-## [DMing advice]({{ '/dming/' | relative_url }})  &nbsp;&nbsp;&nbsp;
-<h2 style="text-align:center;">
+<h3 style="text-align:center;">
   <a href ="{{ '/dming/' | relative_url }}">
    - Dungeon Mastering Advice
   </a>
-</h2>
+</h3>
 
 ## Tools
-<h2 style="text-align:center;">
+<h3 style="text-align:center;">
   <a href ="{{ '/kudahn-names/' | relative_url }}">
    - Kudahn Name Chart
   </a>
-</h2>
+</h3>
 
 
 <h2 style="text-align:center;">
