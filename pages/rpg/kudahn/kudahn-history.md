@@ -16,10 +16,10 @@ Velyk's moon, Sarth, takes around 12 days.
 
 | Season | God   | Months                          |
 | ------ | ----- | ------------------------------- |
-| Whitemoon | Uros  | Ursfall, Frostnight, Deepwhite  |
 | Greenmoon | Eloa  | Thawspring, Greenning, Riverrun |
 | Redmoon | Shair | Golddawn, Reddawn, Reddusk      |
 | Goldmoon | Aea   | Aefall, Redleaf, Blackleaf      |
+| Whitemoon | Uros  | Ursfall, Frostnight, Deepwhite  |
 
 
 <br>
