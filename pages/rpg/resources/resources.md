@@ -4,6 +4,8 @@ title: DM Resources
 permalink: /resources/
 ---
 
+# DM Resources
+
 <h3 style="text-align:center;">
   <a href ="{{ '/dming/' | relative_url }}">
    - Dungeon Mastering Advice
