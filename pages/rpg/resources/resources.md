@@ -18,8 +18,8 @@ permalink: /resources/
 </h3>
 
 
-<h2 style="text-align:center;">
+<h3 style="text-align:center;">
   <a href ="{{ '/backstories/' | relative_url }}">
    - NPC Backstories
   </a>
-</h2>
+</h3>
