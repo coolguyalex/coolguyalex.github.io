@@ -4,7 +4,7 @@ title: DM Resources
 permalink: /resources/
 ---
 
-[## DMing advice]({{ '/dming/' | relative_url }})  &nbsp;&nbsp;&nbsp;
+## [DMing advice]({{ '/dming/' | relative_url }})  &nbsp;&nbsp;&nbsp;
 
 
 ## Custom Resources
