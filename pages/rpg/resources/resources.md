@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 
 # DM Resources
-welcome to goblinoid's hoarde of Dungeon Mastering reaources: A collection of ideas and custom built tools the author thinks are useful at the table and beyond. 
+You have found goblinoid's hoarde of Dungeon Mastering reaources: A collection of ideas and custom built tools the author thinks are useful at the table and beyond. 
 
 <h3 style="text-align:center;">
   <a href ="{{ '/dming/' | relative_url }}">
