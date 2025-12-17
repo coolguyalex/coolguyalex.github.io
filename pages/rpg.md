@@ -16,7 +16,7 @@ You have arrived at goblinoid's RPG resource and game archive hub.
 
 <h3 style="text-align:center;">
   <a href ="{{ '/resources/' | relative_url }}">
-   - Dungeon Mastering for goblinoids
+   - Dungeon Mastering: how-to's and tools
   </a>
 </h3>
 
