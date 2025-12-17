@@ -6,6 +6,26 @@ permalink: /kudahn-history/
 ## History
 #### Compiled by Kyvos Nakkar, Sc.N.P.,  Assistant Professor of Geospatial Chronomantics, Oso Arcanum
 
+The planet of Uradros takes 240 days to rotate around it's star.
+The year is broken into 4 seasons each of which lasts 60 days. 
+A season is hroken into 3 months each lasting 20 days. 
+each month contains 2 10-day weeks.
+The primary moon of Uradros, Velyk, takes an entire season to complete a cycle.
+Velyk's moon, Sarth, takes around 12 days. 
+
+
+| Season | God   | Months                          |
+| ------ | ----- | ------------------------------- |
+| Whitemoon | Uros  | Ursfall, Frostnight, Deepwhite  |
+| Greenmoon | Eloa  | Thawspring, Greenning, Riverrun |
+| Redmoon | Shair | Golddawn, Reddawn, Reddusk      |
+| Goldmoon | Aea   | Aefall, Redleaf, Blackleaf      |
+
+
+
+
+
+
 |Year|Era|Description|
 |------|------|------|
 |-27650|Ancient Era|Settlers land on eastern shores of Kudahn and found Tadros|
