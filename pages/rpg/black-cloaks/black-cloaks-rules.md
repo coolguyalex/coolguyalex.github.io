@@ -54,6 +54,5 @@ Characters always have 2 inventory slots representing their ability to carry ite
 
 | Container| Capacity Unlocked|
 |------|------|
-| Makeshift Bag | 5 |
-| Sack | 7 |
+| Makeshift or Small Bag | 5 |
 | Backpack | 10 |
