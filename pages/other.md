@@ -22,6 +22,15 @@ Music friend lets you record audio by acting as a bluetooth sink (and source), a
 Add your recordings to playslists to create mixes to share with your friends.
 Every recording you make, tag you edit, and playlist you share adds to your pet as it grows. 
 
+#AudioSnap Box — two‑way “song voicemail
+A small tabletop device (one at your place, one at your parents’ place) that acts like a **Snapchat-for-audio**:
+- You **record or import** a song/audio clip (via Bluetooth audio *or* line‑in).
+- You optionally record a short **intro voice message** (“Hi mom…”) using an onboard mic.
+- The device **packages** the intro + main audio into a single “message” and **sends it over the internet** to the paired device.
+- The receiver shows **“New message”** on a tiny screen; a button plays it back (intro first, then the song).
+- Messages are stored on **microSD** and can auto‑expire (optional), keeping the “surprise capsule” vibe.
+
+This avoids the “record system audio from a phone app” problem: the device records **what you feed it** (analog line‑in or Bluetooth receiver), then sends the resulting file.
 ## Brain builder 
 Imagine a picture book that never ends and adjusts to your child's learning. 
 Brain builder contains thousands of words, images, sounds, and concepts to show your childs developing mind the world. 
