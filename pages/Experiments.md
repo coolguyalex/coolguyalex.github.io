@@ -39,13 +39,11 @@ Ambient engines fueled by sensory data turn the environment into musoc.
 A clock designed to teach people binary. Lights turn on and off based on the current time. Each row of the system corresponds to a digit of the time. HHMMSS and each column corresponds to a numeric place. 
 e.g. 
 13:45:30
-|---|---|---|---|
-|---|---|---|---|
-|   |   | 0 | 1 |
-|   |   | 1 | 1 |
-|   | 1 | 0 | 1 |
 
-100
-101
-011
-000
+| _ | 8 | 4 | 2 | 1 |
+| H |---|---|---|---|
+| H |   |   | 0 | 1 |
+| M |   |   | 1 | 1 |
+| M |   | 1 | 0 | 1 |
+| S |   | 0 | 1 | 1 |
+| S |   | 0 | 0 | 0 |
