@@ -16,7 +16,7 @@ Music friend lets you record audio by acting as a bluetooth sink (and source), a
 Add your recordings to playslists to create mixes to share with your friends.
 Every recording you make, tag you edit, and playlist you share adds to your pet as it grows. 
 
-#AudioSnap Box — two‑way “song voicemail
+#AudioSnap Box — two‑way song voicemail
 A small tabletop device (one at your place, one at your parents’ place) that acts like a **Snapchat-for-audio**:
 - You **record or import** a song/audio clip (via Bluetooth audio *or* line‑in).
 - You optionally record a short **intro voice message** (“Hi mom…”) using an onboard mic.
@@ -25,6 +25,7 @@ A small tabletop device (one at your place, one at your parents’ place) that a
 - Messages are stored on **microSD** and can auto‑expire (optional), keeping the “surprise capsule” vibe.
 
 This avoids the “record system audio from a phone app” problem: the device records **what you feed it** (analog line‑in or Bluetooth receiver), then sends the resulting file.
+
 ## Brain builder 
 Imagine a picture book that never ends and adjusts to your child's learning. 
 Brain builder contains thousands of words, images, sounds, and concepts to show your childs developing mind the world. 
@@ -33,3 +34,18 @@ Brain builder leverages child pstchology and development and the idea of Spaced 
 ## Ambient Sound Systems 
 Sculptures that generate ever-changing musical tapestries. 
 Ambient engines fueled by sensory data turn the environment into musoc.
+
+## Binary Clock 
+A clock designed to teach people binary. Lights turn on and off based on the current time. Each row of the system corresponds to a digit of the time. HHMMSS and each column corresponds to a numeric place. 
+e.g. 
+13:45:30
+|---|---|---|---|
+|---|---|---|---|
+|   |   | 0 | 1 |
+|   |   | 1 | 1 |
+|   | 1 | 0 | 1 |
+
+100
+101
+011
+000
