@@ -1,14 +1,8 @@
 ---
 layout: default
-title: other
-permalink: /other/
+title: experiments
+permalink: /experiments/
 ---
-
-# Writing <br>
-## [Jagged Rock]({{ '/jaggedrock/' | relative_url }}) <br>
-## [Southwest of Nmaska]({{ '/southwestofnmaska/' | relative_url }})  &nbsp;&nbsp;&nbsp; 
-## [Moonshadow]({{ '/moonshadow/' | relative_url }})  &nbsp;&nbsp;&nbsp; 
-
 # Embedded Electronics 
 
 ## Goblinoid Dungeon Mastering System *pocket*
