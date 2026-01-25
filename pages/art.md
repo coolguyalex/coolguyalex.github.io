@@ -1,6 +1,6 @@
 ---
 layout: default
-title: art
+title: Art
 permalink: /art/
 ---
 
