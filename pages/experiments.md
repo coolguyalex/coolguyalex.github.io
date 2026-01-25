@@ -40,8 +40,8 @@ A clock designed to teach people binary. Lights turn on and off based on the cur
 e.g. 
 13:45:30
 
-| _ | 8 | 4 | 2 | 1 |
-| H |---|---|---|---|
+|   | 8 | 4 | 2 | 1 |
+|---|---|---|---|---|
 | H |   |   | 0 | 1 |
 | M |   |   | 1 | 1 |
 | M |   | 1 | 0 | 1 |
