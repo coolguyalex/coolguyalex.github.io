@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Art
-permalink: /art/
+permalink: /art_old/
 ---
 
 # Music <br>
