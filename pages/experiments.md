@@ -6,6 +6,10 @@ permalink: /experiments/
 
 https://github.com/coolguyalex
 
+<a href ="{{ 'GitHub' | https://github.com/coolguyalex }}">
+- RPG Blog
+</a>
+
 # Embedded Electronics 
 
 ## Goblinoid Dungeon Mastering System *pocket*
