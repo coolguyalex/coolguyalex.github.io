@@ -4,8 +4,6 @@ title: Experiments
 permalink: /experiments/
 ---
 
-https://github.com/coolguyalex
-
 <a href ="{{ https://github.com/coolguyalex }}">
 GitHub
 </a>
