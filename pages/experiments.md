@@ -4,7 +4,7 @@ title: Experiments
 permalink: /experiments/
 ---
 
-[GitHub]([https://www.google.com](https://github.com/coolguyalex)
+[GitHub](https://github.com/coolguyalex)
 
 # Embedded Electronics 
 
