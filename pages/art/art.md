@@ -5,7 +5,7 @@ permalink: /art/
 ---
 
 # Music <br>
-[SoundCloud](https://soundcloud.com/noise_goblin)
+## [SoundCloud](https://soundcloud.com/noise_goblin)
 
 # Writing <br>
 ## [Jagged Rock]({{ '/jaggedrock/' | relative_url }}) <br>
