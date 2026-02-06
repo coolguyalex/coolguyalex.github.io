@@ -6,8 +6,8 @@ permalink: /experiments/
 
 https://github.com/coolguyalex
 
-<a href ="{{ 'GitHub' | https://github.com/coolguyalex }}">
-- RPG Blog
+<a href ="{{ https://github.com/coolguyalex }}">
+GitHub
 </a>
 
 # Embedded Electronics 
