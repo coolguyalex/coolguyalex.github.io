@@ -4,9 +4,8 @@ title: Experiments
 permalink: /experiments/
 ---
 
-[GitHub](https://github.com/coolguyalex)
-
 # Embedded Electronics 
+[GitHub](https://github.com/coolguyalex)
 
 ## Goblinoid Dungeon Mastering System *pocket*
 Inspirational fantasy companion.
