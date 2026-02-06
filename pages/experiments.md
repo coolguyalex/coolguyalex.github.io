@@ -4,9 +4,7 @@ title: Experiments
 permalink: /experiments/
 ---
 
-<a href ="{{ https://github.com/coolguyalex }}">
-GitHub
-</a>
+[GitHub]([https://www.google.com](https://github.com/coolguyalex)
 
 # Embedded Electronics 
 
