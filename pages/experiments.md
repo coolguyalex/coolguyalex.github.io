@@ -42,7 +42,7 @@ A clock designed to teach people binary. Lights turn on and off based on the cur
 e.g. 
 13:45:30
 
-|   |2^3|2^2|2^1|2^0|
+|___|2^3|2^2|2^1|2^0|
 |---|---|---|---|---|
 | H |   |   | 0 | 1 |
 | M |   |   | 1 | 1 |
