@@ -6,7 +6,7 @@
   <style>
     body {
       font-family: monospace;
-      background: #f2f2f2;
+      background: #f4f4f4;
       max-width: 700px;
       margin: 40px auto;
       padding: 20px;
@@ -14,21 +14,7 @@
 
     h1 {
       border-bottom: 2px solid black;
-      padding-bottom: 5px;
-    }
-
-    input, textarea, button {
-      font-family: monospace;
-      width: 100%;
-      margin-bottom: 12px;
-      padding: 6px;
-      border: 1px solid black;
-      background: white;
-    }
-
-    button {
-      width: auto;
-      cursor: pointer;
+      padding-bottom: 6px;
     }
 
     .entry {
@@ -40,37 +26,40 @@
       font-size: 0.85em;
     }
 
-    .honeypot {
-      display: none;
+    a {
+      color: black;
     }
   </style>
 </head>
 <body>
 
-<h1>~ Sign the Guestbook ~</h1>
+<h1>~ Goblinoid Guestbook ~</h1>
 
-<p>Leave a mark in the dungeon log.</p>
+<p>
+To sign the guestbook, send an email to:
+</p>
 
-<form action="https://formspree.io/f/xgolqler" method="POST">
+<p>
+<strong>keeper [at] goblinoid [dot] com</strong>
+</p>
 
-  <!-- Honeypot field (bots fill this, humans don’t see it) -->
-  <div class="honeypot">
-    <label>Leave this empty</label>
-    <input type="text" name="_gotcha">
-  </div>
+<p>
+Subject line: <strong>Guestbook Entry</strong>
+</p>
 
-  <label>Name:</label>
-  <input type="text" name="name" required>
+<p>
+Include:
+</p>
 
-  <label>Message:</label>
-  <textarea name="message" rows="5" required></textarea>
+<pre>
+Name:
+Location (optional):
+Message:
+</pre>
 
-  <!-- Optional: redirect after submission -->
-  <input type="hidden" name="_next" value="https://goblinoid.com/thanks.html">
-
-  <button type="submit">Sign Guestbook</button>
-
-</form>
+<p>
+Approved entries will appear below.
+</p>
 
 <h2>Entries</h2>
 
