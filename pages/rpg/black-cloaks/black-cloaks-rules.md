@@ -41,8 +41,8 @@ Higher quality equipment can resist more damage before being destroyed. Equipmen
 <br>
 
 | Quality | Criticals Sustained | Deciption |
-|------|------|------|
-|Crude|0|Old, rusted, or primitive equipment.|
+|---------|---------------------|-----------|
+|Crude    |0                    |Old, rusted, or primitive equipment.|
 |Good|1|Standard issue equipment.|
 |Excellent|2|Higher grade equipment made to last.|
 |Legendary|3 (1st must be a double crit)| Unique masterwork items of excelptional quality.|
