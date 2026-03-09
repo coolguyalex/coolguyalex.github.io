@@ -7,10 +7,6 @@ permalink: /black-cloaks-rules/
 # Black Cloaks House Rules 
 Black Cloaks primarily uses the Shadowdark system developed by Kelsey Dione. Available <a href="https://drive.google.com/file/d/1wl3Vlp9aC4atjL6neQV3HjJIFHugLn_1/view?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>. Modifications and additions to the standard Shadodark ruleset are described below:
 
-
-## Grit 
-Black Cloaks replaces the Shadowdark *Luck* tokens with *Grit* points. Grit represent a PC's reserve of inner strength built up by overcoming adversity. When PC's perform memorable deeds *e.g.* a moving speech, a cleverly conceived plan, a fantastic performance, a heroic sacrifice, they may receive a Grit point whether the action succeeds or fails. PC's have a maximum grit point total equal to their character level (minimum 1). Characters may spent grit points to add a +1 to checks and cash in up to three to gain advantage. Other PC's can also contribut to a pool to have PC's 
-
 ## Sanity
 Sanity represents a character's mental defenses and health. It is taxed by traumatic events, monster's special abilities, and most notably the *Shadowdark*. Sanity is equal to your Charaisma modifier (minimum 1)
 Sanity increases every level according to class:
@@ -43,15 +39,20 @@ Higher quality equipment can resist more damage before being destroyed. Equipmen
 | Quality | Criticals Sustained | Deciption |
 |---------|---------------------|-----------|
 |Crude    |0                    |Old, rusted, or primitive equipment.|
-|Good|1|Standard issue equipment.|
+|Good     |1|Standard issue equipment.|
 |Excellent|2|Higher grade equipment made to last.|
 |Legendary|3 (1st must be a double crit)| Unique masterwork items of excelptional quality.|
+
 <br>
 Repairing a piece of equipment 1 quality level is usully equal to half of its value. More exotic pieces of equipment may be more difficult to repair. 
 
 # Inventory
-Shadowdark Characters have carrying capacity equal to their strength score. 
-Characters always have 2 inventory slots representing their ability to carry items in their hands. All other slots must be unlocked by obtaining containers such as sacks or backpacks. 
+Shadowdark Characters have carrying capacities equal to their strength score. However characters must use containers such as packs, sacks, etc. to carry their gear.
+Characters always have 2 inventory slots representing their ability to carry items in their hands. All other slots must be unlocked by obtaining containers.
+
+## Grit 
+Black Cloaks replaces the Shadowdark *Luck* tokens with *Grit* points. Grit represent a PC's reserve of inner strength built up by overcoming adversity. When PC's perform memorable deeds *e.g.* a moving speech, a cleverly conceived plan, a fantastic performance, a heroic sacrifice, they may receive a Grit point whether the action succeeds or fails. PC's have a maximum grit point total equal to their character level (minimum 1). Characters may spent grit points to add a +1 to checks and cash in up to three to gain advantage. Other PC's can also contribut to a pool to have PC's 
+
 
 | Container| Capacity Unlocked|
 |------|------|
