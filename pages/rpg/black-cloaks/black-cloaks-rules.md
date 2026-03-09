@@ -14,8 +14,9 @@ Black Cloaks replaces the Shadowdark *Luck* tokens with *Grit* points. Grit repr
 ## Sanity
 Sanity represents a character's mental defenses and health. It is taxed by traumatic events, monster's special abilities, and most notably the *Shadowdark*. Sanity is equal to your Charaisma modifier (minimum 1)
 Sanity increases every level according to class:
+
 * Fighter - 1d4
-*Thief - 1d4
+* Thief - 1d4
 * Priest - 1d6
 * Wizard - 1d6
 
