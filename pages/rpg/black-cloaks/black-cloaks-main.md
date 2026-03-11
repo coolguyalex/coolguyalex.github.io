@@ -44,11 +44,14 @@ permalink: /black-cloaks-main/
 
 ## Deployments 
 ### Active
-- August (Jade D)
-- Juniper (Jade D)
-- Ahab (Alan E)
-- Pierre (Alan E)
-- Endok (Cameron R)
+- August (JD)
+- Juniper (JD)
+- Dotti (JD)
+- Ahab (AE)
+- Pierre (AE)
+- Endok (CR)
+- Hat (CR)
+- Delaware (NV)
 
 
 ### [Inactive]({{ '/black-cloaks-inactive/' | relative_url }}) <br>
