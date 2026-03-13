@@ -46,12 +46,13 @@ permalink: /black-cloaks-main/
 ### Active
 - August (JD)
 - Juniper (JD)
-- Dotti (JD)
+- -Dotti (JD)-
 - Ahab (AE)
 - Pierre (AE)
 - Endok (CR)
-- Hat (CR)
+- Wiremu (CR)
 - Delaware (NV)
+- Rick (AR)
 
 
 ### [Inactive]({{ '/black-cloaks-inactive/' | relative_url }}) <br>
@@ -63,7 +64,8 @@ permalink: /black-cloaks-main/
 <br>
 
 ## Dungeons 
-- **Alchemist's Repose** (90% School Crew): Lair of an evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
+- **Alchemist's Lair** (90% School Crew): Lair of an alegedly evil alchemist filled with traps. Several Black Cloaks disappeared within and have never been seen again
+- **Alchemist Retreat** (5%): A new Lair carved deep within the shadowdark. 
 - **Tomb of Hishep Ratep** (90% School Crew): Flooded tomb on the edge of a lake. Guardians endure.
 - **The Aquifer of Crystalline Memory** (75% Home Crew): Children enslaved to pick mushrooms within
 - **Vacuous Pit of Slithering Deceit** (70% School Crew): Caverns filled with valuable gems and nasty beasties. A massive slithering worm prowls the darkest depths.
