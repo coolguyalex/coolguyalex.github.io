@@ -1,0 +1,15 @@
+# Guestbook entries, newest first.
+# Submissions arrive by email / in the Formspree dashboard.
+# To publish one, copy it into a new block at the TOP of this list.
+# "location" is optional. Use "|" for messages with multiple lines:
+#
+# - name: Some Goblin
+#   location: Under a bridge
+#   date: 2026-09-22
+#   message: |
+#     First line.
+#     Second line.
+
+- name: Alexander
+  date: 2026-02-01
+  message: The dungeon is open.
